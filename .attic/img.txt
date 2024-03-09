@@ -1,0 +1,1 @@
+  <img class="feature-img" src="{{ 'assets/background.jpg' | relative_url }}" style="max-width: 100%;"/>
