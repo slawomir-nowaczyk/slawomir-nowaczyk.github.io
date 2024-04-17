@@ -21,7 +21,7 @@ In addition to regular paper submissions, we will consider accepting interesting
 ## Submission guidelines
 We use the same format and guidelines as ECAI'24, which can be found (including LaTeX template) at:<br>[https://www.ecai2024.eu/calls/main-track](https://www.ecai2024.eu/calls/main-track).
 
-[https://cmt3.research.microsoft.com/HAII2024](Submission site).
+[Submission site](https://cmt3.research.microsoft.com/HAII2024).
 
 ## Programm committee
 TBA
