@@ -21,7 +21,6 @@ In addition to regular paper submissions, we will consider accepting interesting
 
 ## Submission guidelines
 Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a).
-
 Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
 
 [Submission site](https://cmt3.research.microsoft.com/HAII2024).
