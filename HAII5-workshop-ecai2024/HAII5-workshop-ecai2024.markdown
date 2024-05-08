@@ -10,16 +10,18 @@ This workshop will take place at [ECAI 2024], 19 or 20 October 2024 in Santiago 
 
 ## Important dates
 * Paper submission opens: Wednesday, 17 April 2024
-* Paper submission deadline: Wednesday, 22 May 2024
-* Acceptance notifications: Monday, 8 July 2024
+* Paper submission deadline: Thursday, 6 June 2024
+* Acceptance notifications: Monday, 15 July 2024
 * Camera-ready submission deadline: Thursday, 1 August 2024
 * Final workshop schedule published: Thursday, 8 August 2024
+* ECAI early registration deadline: Thursday, 15 August 2024
 * ECAI early registration deadline: Thursday, 15 August 2024
 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
 
 ## Submission guidelines
-We use the same format and guidelines as ECAI'24, which can be found (including LaTeX template) at:<br>[https://www.ecai2024.eu/calls/main-track](https://www.ecai2024.eu/calls/main-track).
+Workshop papers will be published in [https://ceur-ws.org/](CEUR Workshop Proceedings). We suggest using [https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a](this Overleaf template).
+Detailed formatting instructions can be found [https://ceur-ws.org/HOWTOSUBMIT.html#CEURART](here).
 
 [Submission site](https://cmt3.research.microsoft.com/HAII2024).
 
@@ -42,7 +44,7 @@ The workshop invites original work in the area and will feature a series of pres
 Our objective is to provide a comprehensive platform for participants to gain insights into the current trends, potential benefits, and challenges associated with the deployment of AI in the industry in collaboration with and supporting (not replacing) humans – even on a cognitive level. The workshop is expected to spark innovative ideas, encourage collaborations, and contribute significantly to advancing human-aware AI in the industrial sector. Through this workshop, we aspire to shape the future of the industry where AI not only enhances efficiency and productivity but also aligns seamlessly with human needs and values.
 
 The workshop will consist of two invited talks, technical presentations of contributed papers (primarily oral; however, we are open to the possibility of organising a poster session in case of a large number of high-quality submissions), and a panel discussion to summarise the discussions.
-Papers presented at the workshop shall be submitted to CEUR-WS.org (or a similar service) for online publication.
+Papers presented at the workshop shall be submitted to CEUR-WS.org for online publication.
 
 List of relevant topic areas
 * Human-centered AI Design in manufacturing
