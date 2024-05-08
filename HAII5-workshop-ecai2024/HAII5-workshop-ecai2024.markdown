@@ -20,8 +20,9 @@ This workshop will take place at [ECAI 2024], 19 or 20 October 2024 in Santiago 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
 
 ## Submission guidelines
-Workshop papers will be published in [https://ceur-ws.org/](CEUR Workshop Proceedings). We suggest using [https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a](this Overleaf template).
-Detailed formatting instructions can be found [https://ceur-ws.org/HOWTOSUBMIT.html#CEURART](here).
+Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a).
+
+Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
 
 [Submission site](https://cmt3.research.microsoft.com/HAII2024).
 
