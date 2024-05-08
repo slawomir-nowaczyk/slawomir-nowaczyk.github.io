@@ -15,7 +15,7 @@ This workshop will take place at [ECAI 2024], 19 or 20 October 2024 in Santiago 
 * Camera-ready submission deadline: Thursday, 1 August 2024
 * Final workshop schedule published: Thursday, 8 August 2024
 * ECAI early registration deadline: Thursday, 15 August 2024
-* ECAI early registration deadline: Thursday, 15 August 2024
+* The workshop: Saturday, 19 October 2024
 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
 
