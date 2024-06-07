@@ -4,13 +4,13 @@ title: "HAII5.0: Embracing Human-Aware AI in Industry 5.0"
 permalink: /HAII5-2024
 ---
 
-This workshop will take place at [ECAI 2024], 19 or 20 October 2024 in Santiago de Compostela.
+This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in Santiago de Compostela.
 
 [ECAI 2024]: https://www.ecai2024.eu/
 
 ## Important dates
 * Paper submission opens: Wednesday, 17 April 2024
-* Paper submission deadline: Thursday, 6 June 2024
+* Paper submission deadline (extended): ~~Thursday, 6 June 2024~~ Sunday, 23 June 2024
 * Acceptance notifications: Monday, 15 July 2024
 * Camera-ready submission deadline: Thursday, 1 August 2024
 * Final workshop schedule published: Thursday, 8 August 2024
