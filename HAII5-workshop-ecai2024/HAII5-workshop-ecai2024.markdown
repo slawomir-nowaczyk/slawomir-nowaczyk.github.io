@@ -19,6 +19,15 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
 
+## Invited Speakers
+
+![Jerzy Stefanowski](/assets/photos/jerzy.png "Jerzy Stefanowski"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Jerzy Stefanowski**, is a full professor at Poznan University of Technology Institute of Computing Science, and leads the university’s Machine Learning Lab. He is a Member of the Polish Academy of Sciences since 2021, and the Vice-President of the Polish Artificial Intelligence Society.
+
+He will give a talk "*Interaction with humans while explaining black box machine learning models —  cases of using prototypes, counterfactuals, rules and other forms*."
+
+Second & third speakers to be confirmed...
+
 ## Submission guidelines
 Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a).
 Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
