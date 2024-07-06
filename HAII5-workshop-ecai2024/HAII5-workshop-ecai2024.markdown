@@ -11,10 +11,10 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 ## Important dates
 * Paper submission opens: Wednesday, 17 April 2024
 * Paper submission deadline (extended): ~~Thursday, 6 June 2024~~ Sunday, 23 June 2024
-* Acceptance notifications: Monday, 15 July 2024
+* Acceptance notifications: ~~Monday, 15 July 2024~~ Wednesday, 31 July 2024
 * Camera-ready submission deadline: Thursday, 1 August 2024
 * Final workshop schedule published: Thursday, 8 August 2024
-* ECAI early registration deadline: Thursday, 15 August 2024
+* ECAI early registration deadline: Monday, 19 August 2024
 * The workshop: Saturday, 19 October 2024
 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
@@ -35,8 +35,12 @@ There is no strict page limit, but we recommend submissions to be in the 12-15 p
 
 [Submission site](https://cmt3.research.microsoft.com/HAII2024).
 
-## Programm committee
-TBA
+## Programm committee (preliminary)
+* Abhishek Shukla, Principal Software Engineer, Dell Technologies, USA
+* Christian Beyer, Otto-von-Guericke University, Germany
+* Hao Dong, ETH Zurich, Switzerland
+* Maria Riveiro, Professor, Jönköping University, Sweden
+* Thorsteinn Rögnvaldsson, Professor, Halmstad University, Sweden
 
 ## Workshop organisers
 * Slawomir Nowaczyk, CAISR, Halmstad University, Sweden, slawomir.nowaczyk@hh.se
