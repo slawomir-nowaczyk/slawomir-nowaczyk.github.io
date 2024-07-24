@@ -26,7 +26,8 @@ In addition to regular paper submissions, we will consider accepting interesting
 
 He will give a talk "*Interaction with humans while explaining black box machine learning models —  cases of using prototypes, counterfactuals, rules and other forms*."
 
-Second & third speakers to be confirmed...
+![Kerstin Bach](/assets/photos/Kerstin.jpg "Kerstin Bach"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Kerstin Bach**, is a full professor in Artificial Intelligence at the Department of Computer Science at NTNU. She is currently research director of the Norwegian Research Center for AI Innovation (NorwAI), deputy head of the Data and Artificial Intelligence group, and core team member of the Norwegian Open AI Lab. She was awarded a Dr. rer. nat. (summa cum laude) in Computer Science from the University of Hildesheim, Germany in 2012. Kerstin's main research interests are data-driven decision support systems as well as knowledge-intensive Case-Based Reasoning. She is the chair of the German Society for Computer Science’s Special Interest Group on Knowledge Management, and a board member of the Norwegian AI society.
 
 ## Submission guidelines
 Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a).
