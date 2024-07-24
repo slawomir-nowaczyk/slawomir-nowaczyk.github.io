@@ -12,7 +12,7 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 * Paper submission opens: Wednesday, 17 April 2024
 * Paper submission deadline (extended): ~~Thursday, 6 June 2024~~ Sunday, 23 June 2024
 * Acceptance notifications: ~~Monday, 15 July 2024~~ Wednesday, 31 July 2024
-* Camera-ready submission deadline: Thursday, 1 August 2024
+* Camera-ready submission deadline: Wednesday, 7 August
 * Final workshop schedule published: Thursday, 8 August 2024
 * ECAI early registration deadline: Monday, 19 August 2024
 * The workshop: Saturday, 19 October 2024
