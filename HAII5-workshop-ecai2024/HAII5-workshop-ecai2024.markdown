@@ -13,7 +13,7 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 * Paper submission deadline (extended): ~~Thursday, 6 June 2024~~ Sunday, 23 June 2024
 * Acceptance notifications: ~~Monday, 15 July 2024~~ Wednesday, 31 July 2024
 * Camera-ready submission deadline: Wednesday, 7 August
-* Final workshop schedule published: Thursday, 8 August 2024
+* Workshop schedule published: Tuesday, 13 August 2024
 * ECAI early registration deadline: Monday, 19 August 2024
 * The workshop: Saturday, 19 October 2024
 
@@ -38,10 +38,19 @@ There is no strict page limit, but we recommend submissions to be in the 12-15 p
 
 ## Programm committee (preliminary)
 * Abhishek Shukla, Principal Software Engineer, Dell Technologies, USA
+* Chi-Ching Hsu, ETH Zurich, Switzerland
 * Christian Beyer, Otto-von-Guericke University, Germany
+* Florent Forest, EPFL, Switzerland
+* Han Sun, EPFL, Switzerland
 * Hao Dong, ETH Zurich, Switzerland
+* Marco Ragni, TU Chemnitz, Germany
 * Maria Riveiro, Professor, Jönköping University, Sweden
+* Myra Spiliopoulou, Otto-von-Guericke-University Magdeburg, Germany
+* Olga Fink, EPFL, Switzerland
+* Slawomir Nowaczyk, Halmstad University, Sweden
+* Stephan Husung, TU Ilmenau, Germany
 * Thorsteinn Rögnvaldsson, Professor, Halmstad University, Sweden
+* Zheng Zhou, Xi'an Jiaotong University, China
 
 ## Workshop organisers
 * Slawomir Nowaczyk, CAISR, Halmstad University, Sweden, slawomir.nowaczyk@hh.se
