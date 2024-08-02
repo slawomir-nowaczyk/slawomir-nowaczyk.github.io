@@ -36,7 +36,7 @@ There is no strict page limit, but we recommend submissions to be in the 12-15 p
 
 [Submission site](https://cmt3.research.microsoft.com/HAII2024).
 
-## Programm committee (preliminary)
+## Programm committee
 * Abhishek Shukla, Principal Software Engineer, Dell Technologies, USA
 * Chi-Ching Hsu, ETH Zurich, Switzerland
 * Christian Beyer, Otto-von-Guericke University, Germany
