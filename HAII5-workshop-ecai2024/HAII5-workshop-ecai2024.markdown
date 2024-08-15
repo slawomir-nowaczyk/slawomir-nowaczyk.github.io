@@ -21,15 +21,15 @@ He will give a talk "*Interaction with humans while explaining black box machine
 
 ## Preliminary programme
 
-| Time Slot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Presentations |
+| Time Slot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Presentations |
 | ---:        | --- |
 | 9:00 – 9:10 | Welcome & Opening Session |
-|  9:10–10:10 | Invited talk: *Jerzy Stefanowski* |
+|  9:10–10:10 | **Invited talk:** *Jerzy Stefanowski* |
 | 10:10-10:30 | * Augmenting train maintenance technicians with automated incident diagnostic suggestions, *Georges Tod (SNCB)* |
 | 10:30–11:00 | **Coffee break** |
 | 11:00–12:30 | * SHAP-Driven Explainability in Survival Analysis for Predictive Maintenance Applications, *Monireh Kargar, Zahra Kharazian, Ioanna Miliou, Tony Lindgren (Stockholm University)* <br> * Towards differentiating between failures and domain shifts in industrial data streams *Natalia Wojak-Strzelecka (ArcelorMittal), Szymon Bobek (JU), Grzegorz Nalepa (JU), Jerzy Stefanowski (PUT)* <br> * Invariant Feature Selection for Battery State of Health Estimation in Heterogeneous Hybrid Electric Buses, *Yuantao Fan, Mohammed Ghaith Altarabichi, Peyman Mashhadi, Sepideh Pashami, Slawomir Nowaczyk (Halmstad University)* <br> * Human-Aware design for transferring knowledge during human-AI co-learning, *Dimitrios Koutrintzes, Christos Spatharis, Maria Dagioglou (Demokritos)*|
 | 12:30–14:00 | **Lunch break** |
-| 14:00–15:00 | Invited talk: *Kerstin Bach* |
+| 14:00–15:00 | **Invited talk:** *Kerstin Bach* |
 | 15:10–15:30 | * Understanding the Impact of Unexpected Cobot Movements on Human Stress Levels: A Time Series Classification Task, *Lior Shilon (SSCE), Vladyslav Shevtsov (SSCE), Nadia Schillreff (OVGU), Anne Rother (OVGU), Shlomo Mark (SSCE), Myra Spiliopoulou (OVGU)* |
 | 15:30–16:00 | **Coffee break** |
 | 16:00–17:00 | * Evaluating Multi-task Curriculum Learning for Forecasting Energy Consumption in Electric Heavy-duty Vehicles, *Yuantao Fan (Halmstad University), Zhenkan Wang (Volvo Group), Sepideh Pashami (Halmstad University), Slawomir Nowaczyk (Halmstad University)* <br> * LanViKD: Cross-Modal Language-Vision Knowledge Distillation for Egocentric Action Recognition, *Yizheng Sun, Hao Li, Chenghua Lin, Riza Batista-Navarro (University of Manchester)* <br> * eXplainable Random Forest, *Shlomit Gur, Guy Amit (IBM Research)* |
