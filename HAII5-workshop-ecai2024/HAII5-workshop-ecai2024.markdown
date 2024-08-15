@@ -8,6 +8,33 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 
 [ECAI 2024]: https://www.ecai2024.eu/
 
+## Invited Speakers
+
+![Jerzy Stefanowski](/assets/photos/jerzy.png "Jerzy Stefanowski"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Jerzy Stefanowski**, is a full professor at Poznan University of Technology Institute of Computing Science, and leads the university’s Machine Learning Lab. He is a Member of the Polish Academy of Sciences since 2021, and the Vice-President of the Polish Artificial Intelligence Society.
+
+He will give a talk "*Interaction with humans while explaining black box machine learning models —  cases of using prototypes, counterfactuals, rules and other forms*."
+
+![Kerstin Bach](/assets/photos/Kerstin.jpg "Kerstin Bach"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Kerstin Bach**, is a full professor in Artificial Intelligence at the Department of Computer Science at NTNU. She is currently research director of the Norwegian Research Center for AI Innovation (NorwAI), deputy head of the Data and Artificial Intelligence group, and core team member of the Norwegian Open AI Lab. She was awarded a Dr. rer. nat. (summa cum laude) in Computer Science from the University of Hildesheim, Germany in 2012. Kerstin's main research interests are data-driven decision support systems as well as knowledge-intensive Case-Based Reasoning. She is the chair of the German Society for Computer Science’s Special Interest Group on Knowledge Management, and a board member of the Norwegian AI society.
+
+
+## Preliminary programme
+
+| Time Slot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Presentations |
+| ---:        | --- |
+| 9:00 – 9:10 | Welcome & Opening Session |
+|  9:10–10:10 | Invited talk: *Jerzy Stefanowski* |
+| 10:10-10:30 | * Augmenting train maintenance technicians with automated incident diagnostic suggestions, *Georges Tod (SNCB)* |
+| 10:30–11:00 | **Coffee break** |
+| 11:00–12:30 | * SHAP-Driven Explainability in Survival Analysis for Predictive Maintenance Applications, *Monireh Kargar, Zahra Kharazian, Ioanna Miliou, Tony Lindgren (Stockholm University)* <br> * Towards differentiating between failures and domain shifts in industrial data streams *Natalia Wojak-Strzelecka (ArcelorMittal), Szymon Bobek (JU), Grzegorz Nalepa (JU), Jerzy Stefanowski (PUT)* <br> * Invariant Feature Selection for Battery State of Health Estimation in Heterogeneous Hybrid Electric Buses, *Yuantao Fan, Mohammed Ghaith Altarabichi, Peyman Mashhadi, Sepideh Pashami, Slawomir Nowaczyk (Halmstad University)* <br> * Human-Aware design for transferring knowledge during human-AI co-learning, *Dimitrios Koutrintzes, Christos Spatharis, Maria Dagioglou (Demokritos)*|
+| 12:30–14:00 | **Lunch break** |
+| 14:00–15:00 | Invited talk: *Kerstin Bach* |
+| 15:10–15:30 | * Understanding the Impact of Unexpected Cobot Movements on Human Stress Levels: A Time Series Classification Task, *Lior Shilon (SSCE), Vladyslav Shevtsov (SSCE), Nadia Schillreff (OVGU), Anne Rother (OVGU), Shlomo Mark (SSCE), Myra Spiliopoulou (OVGU)* |
+| 15:30–16:00 | **Coffee break** |
+| 16:00–17:00 | * Evaluating Multi-task Curriculum Learning for Forecasting Energy Consumption in Electric Heavy-duty Vehicles, *Yuantao Fan (Halmstad University), Zhenkan Wang (Volvo Group), Sepideh Pashami (Halmstad University), Slawomir Nowaczyk (Halmstad University)* <br> * LanViKD: Cross-Modal Language-Vision Knowledge Distillation for Egocentric Action Recognition, *Yizheng Sun, Hao Li, Chenghua Lin, Riza Batista-Navarro (University of Manchester)* <br> * eXplainable Random Forest, *Shlomit Gur, Guy Amit (IBM Research)* |
+| 17:00–17:30 | Summary & Closing Session |
+
 ## Important dates
 * Paper submission opens: Wednesday, 17 April 2024
 * Paper submission deadline (extended): ~~Thursday, 6 June 2024~~ Sunday, 23 June 2024
@@ -19,15 +46,6 @@ This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in San
 
 In addition to regular paper submissions, we will consider accepting interesting papers rejected from the main conference. Potential authors should submit a request for their rejected paper to be considered by 10 July 2024, and can expect a decision by 25 July 2024.
 
-## Invited Speakers
-
-![Jerzy Stefanowski](/assets/photos/jerzy.png "Jerzy Stefanowski"){: style="float: left; width: 250px; margin-right: 1em;"}
-**Jerzy Stefanowski**, is a full professor at Poznan University of Technology Institute of Computing Science, and leads the university’s Machine Learning Lab. He is a Member of the Polish Academy of Sciences since 2021, and the Vice-President of the Polish Artificial Intelligence Society.
-
-He will give a talk "*Interaction with humans while explaining black box machine learning models —  cases of using prototypes, counterfactuals, rules and other forms*."
-
-![Kerstin Bach](/assets/photos/Kerstin.jpg "Kerstin Bach"){: style="float: left; width: 250px; margin-right: 1em;"}
-**Kerstin Bach**, is a full professor in Artificial Intelligence at the Department of Computer Science at NTNU. She is currently research director of the Norwegian Research Center for AI Innovation (NorwAI), deputy head of the Data and Artificial Intelligence group, and core team member of the Norwegian Open AI Lab. She was awarded a Dr. rer. nat. (summa cum laude) in Computer Science from the University of Hildesheim, Germany in 2012. Kerstin's main research interests are data-driven decision support systems as well as knowledge-intensive Case-Based Reasoning. She is the chair of the German Society for Computer Science’s Special Interest Group on Knowledge Management, and a board member of the Norwegian AI society.
 
 ## Submission guidelines
 Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/vnzqhjbmzvdn#7a347a).
