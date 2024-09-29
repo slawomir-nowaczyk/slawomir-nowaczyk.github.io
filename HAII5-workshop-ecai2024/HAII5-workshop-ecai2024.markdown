@@ -5,8 +5,10 @@ permalink: /HAII5-2024
 ---
 
 This workshop will take place at [ECAI 2024], on Saturday 19 October 2024 in Santiago de Compostela.
+Workshop proceedings are available open access at CEUR-WS at [https://ceur-ws.org/Vol-3765/].
 
 [ECAI 2024]: https://www.ecai2024.eu/
+[https://ceur-ws.org/Vol-3765/]: https://ceur-ws.org/Vol-3765/
 
 ## Invited Speakers
 
@@ -137,3 +139,5 @@ Olga Fink has been an assistant professor of intelligent maintenance and operati
 [![CHIST-ERA XPM](/assets/logos/xpm-logo.jpg "CHIST-ERA XPM"){: style="float: left; width: 100px; margin-right: 1em;"}](https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/technology-area-aware-intelligent-systems/research-projects-within-aware-intelligent-systems/xpm-explainable-predictive-maintenance.html)
 
 [![AI-BOOST](/assets/logos/AI-BOOST-logo.jpeg "AI-BOOST"){: style="float: left; width: 200px; margin-right: 1em;"}](https://aiboost-project.eu/)
+
+[![CEUR-WS](https://ceur-ws.org/CEUR-WS-logo.png "CEUR-WS"){: style="float: left; width: 200px; margin-right: 1em;"}](https://ceur-ws.org/)
