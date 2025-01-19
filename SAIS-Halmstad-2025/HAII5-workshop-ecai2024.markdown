@@ -80,10 +80,10 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 ## Organizing Committee
 
 | Slawomir Nowaczyk | General Chair |
+| Thorsteinn Rögnvaldsson | General Chair |
 | Greg Nalepa | Program Chair |
 | Anna Vettoruzzo | Program Chair |
 | Sepideh Pashami | Industry Liaison |
-| Thorsteinn Rögnvaldsson | Sponsorship Chair |
 | Carlos Silla | Publicity Chair |
 | Marlena Nowaczyk | Local Chair |
 | Stefan Byttner | Keynote Chair |
