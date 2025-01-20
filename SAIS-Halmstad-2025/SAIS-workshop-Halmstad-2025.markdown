@@ -33,6 +33,8 @@ Contributions are welcome from all areas of Artificial Intelligence, and topics 
 
 * AI theory and applications
 * AI ethics and regulations
+* Human-centred AI
+* Human-in-the-loop AI
 * Case studies of AI
 * Knowledge representation
 * Hybrid and neurosymbolic AI
@@ -50,8 +52,9 @@ For the scientific program of the conference, we invite five types of contributi
 * 6-10 pages full paper describing original contributions that are not under review at another venue. This category will be published in SAIS 2025 proceedings at CEUR-WS, unless the authors opt-out.
 * 3-5 pages general descriptions of current and ongoing projects, intended to disseminate work-in-progress results and undeveloped but interesting ideas; the goals is promoting awareness of research taking place within Sweden, and building up new collaborations. This category will not be included in the proceedings, only presented at the event.
 * 2 pages extended abstracts of previously published papers in prestigious AI journals and conferences (within the last 12 months), intended to disseminate important ideas within Sweden. This category will not be included in the proceedings, only presented at the event.
-* 2 pages descriptions of AI industrial applications and/or demonstrating use cases that leverage machine learning and AI techniques in a real-world setting. At least one author should be from industry. This category will not be included in the proceedings, only presented at the event.
+* up to 2 pages descriptions of AI industrial applications and/or demonstrating use cases that leverage machine learning and AI techniques in a real-world setting. At least one author should be from industry. This category will not be included in the proceedings, only presented at the event.
 * 2 pages extended abstract describing ongoing PhD projects (the first author must be a PhD student) as part of Doctoral Consortium, intended to gather feedback on problem statement and research questions, motivation, suggestions for new approaches, etc. This category will not be included in the proceedings, only presented at the event.
+* until one week before the conference, we will also accept last-minute poster submissions of any AI-related content that would be of interest to workshop participants (submissions consisting of 0.5-1 page description will be continuously evaluated be Programme Committee members).
 
 All submissions will be peer-reviewed by the conference program committee and accepted contributions will be part of workshop programme as oral presentations, practical demonstrations or posters.
 
