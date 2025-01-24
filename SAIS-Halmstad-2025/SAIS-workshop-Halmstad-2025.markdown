@@ -26,6 +26,39 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 | Author Notification     | 2025-05-05|
 | Camera-Ready Submission | 2025-05-15|
 
+## Invited Speakers
+
+![Kalle Åström](/assets/photos/KalleAstrom.png "Kalle Åström"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Kalle Åström**, Professor in Mathematics and Computer Vision at Lund University.
+
+Title & Abstract to be confirmed...
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+![Benyou Wang](/assets/photos/BenyouWang.jpg "Benyou Wang"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Benyou Wang**, Assistant Professor at The Chinese University of Hong Kong, Shenzhen.
+
+**Title:** Towards Trustworthy Medical Large Language Models
+
+**Abstract:**
+Recently, OpenAI's ChatGPT and various open-source community models, such as LLaMA 3, have significantly advanced the development of AI applications. In the medical field, both proprietary and open-source models hold great potential. However, when it comes to solving real-world medical problems, there is still a "last mile" to cover. In this Speech, we will introduce our team's development of the medical large language model, HuatuoGPT, and its multilingual and multimodal extensions, the Apollo series. We will also discuss the technical solutions for HuatuoGPT-o1, which aim to enhance the performance and interpretability of large language models, particularly in the context of longer diagnostic reasoning chains. Finally, we will look ahead to the future development of medical LLMs. Specifically, we will explore the potential of using AIGC technology to create a large number of patient agents to train both human and AI doctors. By doing so, we can accumulate real patient needs and doctor feedback, ultimately working towards the development of generalist medical artificial intelligence (GMAI).
+
+**Bio:**
+Benyou Wang is an Assistant Professor and Presidential Young Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. He has received numerous awards, including the SIGIR 2017 Best Paper Nomination, NAACL 2019 Best Explainable NLP Paper, NLPCC 2022 Best Paper, and the EU Marie Curie Fellowship. He also served as the Website Chair for the EMNLP 2023 and the Publicity Chair for NLPCC 2023. His team has developed the medical LLM HuatuoGPT, the multilingual medical LLM Apollo, and the Arabic LLM AceGPT.
+Photo: 
+
+
+![Markus Lingman](/assets/photos/MarkusLingman.jpg "Markus Lingman"){: style="float: left; width: 250px; margin-right: 1em;"}
+**Markus Lingman** (to be confirmed), Chief Strategy Officer at Halland hospital group and adj. professor at Halmstad University information drive care, AI Swede of the year 2020.
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+
 ## Call for Papers
 In the last years, research on Artificial Intelligence has made both academia and industry to take a more active role in engaging with the general public. The immense success of recent results appears almost endless, but they are not without faults or concerns. Addressing the role these technologies can have in human society is therefore important. The 2025 SAIS workshop, organised by the Swedish AI Society, invites researchers and industry practitioners working on all facets of AI to share their research.
 
