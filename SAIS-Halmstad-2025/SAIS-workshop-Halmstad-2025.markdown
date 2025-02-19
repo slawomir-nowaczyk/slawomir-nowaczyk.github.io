@@ -66,6 +66,7 @@ Contributions are welcome from all areas of Artificial Intelligence, and topics 
 
 * AI theory and applications
 * AI ethics and regulations
+* Trustworthy AI
 * Human-centred AI
 * Human-in-the-loop AI
 * Case studies of AI
