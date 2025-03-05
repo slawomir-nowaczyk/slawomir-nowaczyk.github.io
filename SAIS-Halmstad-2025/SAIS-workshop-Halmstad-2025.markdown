@@ -21,7 +21,7 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 **Authors**
 
-| Submission Site Opening | 2025-03-01|
+| Submission Site Opening | 2025-03-10|
 | Submission Deadline     | 2025-04-10|
 | Author Notification     | 2025-05-05|
 | Camera-Ready Submission | 2025-05-15|
@@ -31,11 +31,15 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 ![Kalle Åström](/assets/photos/KalleAstrom.png "Kalle Åström"){: style="float: left; width: 250px; margin-right: 1em;"}
 **Kalle Åström**, Professor in Mathematics and Computer Vision at Lund University.
 
-Title & Abstract to be confirmed...
+**Title:** AI Lund and Advances in Feature-Metric Learning for Vision and Audio
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
+**Abstract:**
+In this talk, I will present the AI Lund network at Lund University and discuss recent advancements in feature-metric learning for vision and audio, conducted within the Computer Vision and Machine Learning division of our department. AI Lund is an open network that fosters teaching, research, and collaboration across disciplines. I will outline its development since 2018 and highlight key initiatives.
+While deep learning has significantly advanced recognition and generative tasks in images and audio, its application to mapping and positioning remains a challenge. However, recent progress in feature-metric learning has proven highly effective for feature extraction and geometric estimation. I will present key concepts in this new development and showcase examples of recent and ongoing research that push the boundaries of this field.
+ 
+**Bio:**
+Kalle Åström is a professor at the Centre for Mathematical Sciences at Lund University. His research spans from basic research in algebraic geometry, applied mathematical research and dissemination in industry and society as a whole. His master's thesis on autonomous vehicles was awarded first prize in Innovation Cup, 1991. The dissertation from 1996, won prize as best Nordic dissertation in machine learning and image analysis. He is the founder of several companies, Neuromathic, Spiideo, Cognimatics and Decuma, where Decuma won the EU's "IST grand prize" in 2005. He has been co-editor for IEEE transaction on Pattern Analysis and Machine Intelligence, and was the track chair for International Conference on Pattern Recognition in 2014. He has written about 230 reviewed scientific articles in scientific journals and conferences and has been main or co-supervisor for 30 PhD students. Currently he is coordinating the AI Lund network at Lund University.
+ 
 
 ![Benyou Wang](/assets/photos/BenyouWang.jpg "Benyou Wang"){: style="float: left; width: 250px; margin-right: 1em;"}
 **Benyou Wang**, Assistant Professor at The Chinese University of Hong Kong, Shenzhen.
