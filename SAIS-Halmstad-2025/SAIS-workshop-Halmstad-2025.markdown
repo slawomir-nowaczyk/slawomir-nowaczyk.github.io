@@ -102,6 +102,21 @@ Submission site will open on 2025-03-01.
 
 Online registration for authors and participants will open on 2025-05-01. Registration fee has not yet been decided, but we expect to keep it on par with last years, in the 2000-3000 SEK range. Registration will include coffee, lunches, and conference dinner.
 
+### Payment information:
+Organisationsnummer: 202100-3203 <br/>
+VAT-nr: SE202100320301 <br/>
+Bankgiro: 5328-2414 <br/>
+### Bank information:
+Danske Bank Sverige <br/>
+Box 7523 <br/>
+SE-103 92 Stockholm <br/>
+IBAN-nr: SE4612000000012810112657 <br/>
+SWIFT-adress: DABASESX
+### Activity number:
+Activity number when making a payment: 960477
+
+For exceptions or prices including VAT, please send an email to Vivian Violin Lönnesjö: vivian.violin@hh.se
+
 ## Conference Programme
 
 The workshop is planned to start around 9:00 on Monday, 16th of June 2025 and to end late afternoon, around 17:00, on Tuesday 17th of June 2025.
