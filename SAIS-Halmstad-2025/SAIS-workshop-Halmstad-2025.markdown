@@ -26,6 +26,19 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 | Author Notification     | 2025-05-05|
 | Camera-Ready Submission | 2025-05-15|
 
+## Submission
+
+CMT submission link will be coming shortly
+
+[Instructions for authors on how to submit a paper] and a link for [Creating a CMT account]
+
+[Creating a CMT account]: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html
+[Instructions for authors on how to submit a paper]: https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html
+
+The [Microsoft CMT service] was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support
+
+[Microsoft CMT service]: https://cmt3.research.microsoft.com/
+
 ## Invited Speakers
 
 ![Kalle Åström](/assets/photos/KalleAstrom.png "Kalle Åström"){: style="float: left; width: 250px; margin-right: 1em;"}
