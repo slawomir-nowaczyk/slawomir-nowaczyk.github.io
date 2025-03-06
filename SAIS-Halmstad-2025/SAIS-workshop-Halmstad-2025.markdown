@@ -128,7 +128,7 @@ SWIFT-adress: DABASESX
 ### Activity number:
 Activity number when making a payment: 960477
 
-For exceptions or prices including VAT, please send an email to Vivian Violin Lönnesjö: vivian.violin@hh.se
+For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
 
 ## Conference Programme
 
