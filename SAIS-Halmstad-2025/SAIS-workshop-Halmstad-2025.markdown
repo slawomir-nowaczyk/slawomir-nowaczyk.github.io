@@ -160,9 +160,9 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 
 ## Program Committee
 
-To be decided...
+To be decided later...
 
-## Partners
+## Partners 
 
 [![Halmstad University](/assets/logos/hh-logo.jpg "Halmstad University"){: style="float: left; height: 200px; margin-right: 1em;"}](https://hh.se/)
 
