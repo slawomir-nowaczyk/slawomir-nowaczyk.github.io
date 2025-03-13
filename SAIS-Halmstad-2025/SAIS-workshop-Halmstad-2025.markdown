@@ -160,7 +160,7 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 
 ## Program Committee
 
-To be decided later...
+To be decided...
 
 ## Partners 
 
