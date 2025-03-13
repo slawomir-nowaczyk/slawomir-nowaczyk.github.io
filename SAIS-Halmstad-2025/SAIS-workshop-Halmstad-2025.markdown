@@ -126,7 +126,7 @@ SE-103 92 Stockholm <br/>
 IBAN-nr: SE4612000000012810112657 <br/>
 SWIFT-adress: DABASESX
 ### Activity number:
-Activity number when making a payment: 960477
+Activity number when making a payment: 960477. Please include also your full name.
 
 For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
 
