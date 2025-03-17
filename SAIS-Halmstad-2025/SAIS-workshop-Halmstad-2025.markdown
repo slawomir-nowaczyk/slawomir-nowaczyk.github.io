@@ -28,7 +28,15 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 ## Submission
 
-CMT submission link will be coming shortly
+CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025]
+
+Workshop papers will be published in [CEUR Workshop Proceedings]. We suggest using [this Overleaf template]. Detailed formatting instructions can be found [here].
+https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c
+
+[https://cmt3.research.microsoft.com/SAIS2025]: https://cmt3.research.microsoft.com/SAIS2025
+[CEUR Workshop Proceedings]: https://ceur-ws.org/
+[this Overleaf template]: https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c
+[here]: https://ceur-ws.org/HOWTOSUBMIT.html#CEURART
 
 [Instructions for authors on how to submit a paper] and a link for [Creating a CMT account]
 
@@ -64,17 +72,17 @@ Recently, OpenAI's ChatGPT and various open-source community models, such as LLa
 
 **Bio:**
 Benyou Wang is an Assistant Professor and Presidential Young Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. He has received numerous awards, including the SIGIR 2017 Best Paper Nomination, NAACL 2019 Best Explainable NLP Paper, NLPCC 2022 Best Paper, and the EU Marie Curie Fellowship. He also served as the Website Chair for the EMNLP 2023 and the Publicity Chair for NLPCC 2023. His team has developed the medical LLM HuatuoGPT, the multilingual medical LLM Apollo, and the Arabic LLM AceGPT.
-Photo: 
-
 
 ![Markus Lingman](/assets/photos/MarkusLingman.jpg "Markus Lingman"){: style="float: left; width: 250px; margin-right: 1em;"}
-**Markus Lingman** (to be confirmed), Chief Strategy Officer at Halland hospital group and adj. professor at Halmstad University information drive care, AI Swede of the year 2020.
+**Markus Lingman**, Chief Strategy Officer at Halland hospital group and adj. professor at Halmstad University information drive care, AI Swede of the year 2020.
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+**Title:** Routes to AI-driven value in health – when opportunity hits reality
 
+**Abstract:**
+Expectations and the promise of AI in health and care are great, but actual value delivered at scale is still limited. How can this be in a sector where demand is exceeding supply? In this talk I will provide an overview of the progress of AI  in care and aspects needed to acknowledge in order for researchers, innovators and entrepreneurs to thrive and contribute to the sector. I will discuss the AI infrastructure built in Halland and provide examples of how international collaboration can lead to new insights not achievable locally.
+
+**Bio:**
+Markus Lingman is adj professor of medicine at the Dept. Information technology at Halmstad University and researcher at Sahlgrenska Academy, Gothenburg. Insights from research are actioned in his role as Chief Strategy Officer of Region Halland. With a background as specialist physician and in healthcare management Markus´work revolves around the translation from care data to value for patients and providers. In 2020 he was named AI-Swede of the year by the Swedish medtech sector and in 2024 the National Government appointed member of the Scientific Council for Medicine and Health. Dominating current academic projects are on detection of risk for sudden cardiac death together with UC Berkeley, and identifying early exacerbation of chronic disease using smart watch data in collaboration with Stanford School of Medicine.
 
 ## Call for Papers
 In the last years, research on Artificial Intelligence has made both academia and industry to take a more active role in engaging with the general public. The immense success of recent results appears almost endless, but they are not without faults or concerns. Addressing the role these technologies can have in human society is therefore important. The 2025 SAIS workshop, organised by the Swedish AI Society, invites researchers and industry practitioners working on all facets of AI to share their research.
