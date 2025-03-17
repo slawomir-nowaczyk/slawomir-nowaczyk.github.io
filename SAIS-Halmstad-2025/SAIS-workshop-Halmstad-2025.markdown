@@ -28,15 +28,9 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 ## Submission
 
-CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025]
+CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025](https://cmt3.research.microsoft.com/SAIS2025).
 
-Workshop papers will be published in [CEUR Workshop Proceedings]. We suggest using [this Overleaf template]. Detailed formatting instructions can be found [here].
-https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c
-
-[https://cmt3.research.microsoft.com/SAIS2025]: https://cmt3.research.microsoft.com/SAIS2025
-[CEUR Workshop Proceedings]: https://ceur-ws.org/
-[this Overleaf template]: https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c
-[here]: https://ceur-ws.org/HOWTOSUBMIT.html#CEURART
+Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c). Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
 
 [Instructions for authors on how to submit a paper] and a link for [Creating a CMT account]
 
