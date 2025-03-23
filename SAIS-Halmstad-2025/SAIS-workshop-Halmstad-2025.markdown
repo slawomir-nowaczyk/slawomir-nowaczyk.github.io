@@ -113,8 +113,11 @@ All submissions will be peer-reviewed by the conference program committee and ac
 
 Submission site will open on 2025-03-01.
 
-## Registration
 
+## Registration
+<details>
+<summary>More details here.</summary>
+<br>
 Online registration for authors and participants will open on 2025-05-01. Registration fee has not yet been decided, but we expect to keep it on par with last years, in the 2000-3000 SEK range. Registration will include coffee, lunches, and conference dinner.
 
 ### Payment information:
@@ -131,6 +134,7 @@ SWIFT-adress: DABASESX
 Activity number when making a payment: 960477. Please include also your full name.
 
 For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
+</details>
 
 ## Conference Programme
 
