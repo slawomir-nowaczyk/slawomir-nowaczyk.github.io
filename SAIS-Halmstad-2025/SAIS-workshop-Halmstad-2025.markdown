@@ -143,6 +143,10 @@ We are also planning to organise Industrial Trustworthy AI Day, co-located with 
 
 <details>
 <summary>Detailed programme will appear here once it is decided.</summary>
+<br>
+Monday 16.06 
+<br>
+Tuesday 17.06 
 </details>
 
 ## Venue and Accommodation
