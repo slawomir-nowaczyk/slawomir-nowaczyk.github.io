@@ -164,24 +164,26 @@ If you're driving from Malmö or Göteborg, take the E6 motorway to the southern
 
 When you approach Halmstad from Växjö or Jönköping, take the E6 motorway southbound (towards Malmö), get off at the southern exit and then drive towards the town centre. Follow the instructions above.
 
-There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our [Campus map] campus map.
+There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our [Campus map].
 
 
 ### By plane
 Halmstad airport is one of Sweden's most central airports, with flights to and from Stockholm/Bromma. From the airport, you can get to town via bus or taxi. By car, it takes around 10 minutes from the town centre. Local bus route 40 stops just outside the terminal entrance.
 
-When travelling to Halmstad from abroad, it is often easiest to fly to Copenhagen Airport (Denmark) and take the train directly to Halmstad. Look for a train going to Göteborg, which will stop at Halmstad along the way.
-[Halmstad airport][Halmstad airport]: https://www.halmstadcityairport.se/
+When travelling to Halmstad from abroad, it is often easiest to fly to Copenhagen Airport (Denmark) and take the train directly to Halmstad. Look for a train going to Göteborg, which will stop at Halmstad along the way. [Halmstad airport]
 
 ### By train
 Train services will take you to central Halmstad. The train station is within walking distance to the centre of town. It takes about 10 minutes to walk to the University. Should you wish to take the bus instead, there are buses from the train station to most parts of town.
 
-For information on train timetables, please see the train services' individual websites.
+For information on train timetables, please see the train services' individual websites [Öresundstag],
+[SJ], [Krösatågen].
+
+
+[Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278 
+[Halmstad airport]: https://www.halmstadcityairport.se/
 [Öresundstag]: https://www.oresundstag.se/
 [SJ]: https://www.sj.se/#/
 [Krösatågen]: http://www.krosatagen.se/
-
-[Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278 
 </details>
 
 ## Organizing Committee
