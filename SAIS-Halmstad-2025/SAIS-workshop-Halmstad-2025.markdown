@@ -142,7 +142,9 @@ The workshop is planned to start around 9:00 on Monday, 16th of June 2025 and to
 
 We are also planning to organise Industrial Trustworthy AI Day, co-located with SAIS 2025, on Wednesday, 18th of June 2025.
 
-Detailed programme will appear here once it is decided.
+<details>
+<summary>Detailed programme will appear here once it is decided.</summary>
+</details>
 
 ## Venue and Accommodation
 
