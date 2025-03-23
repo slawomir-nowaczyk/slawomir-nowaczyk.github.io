@@ -155,6 +155,7 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 [School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
 ## Getting here 
+<summary>Here are some practical informations about how to get to and around Halmstad</summary>
 <details>
 To cycle or take the bus/drive between the town centre and Halmstad University only takes a few minutes, the distance is around two kilometres. The easiest way is to follow Laholmsvägen straight to the University.
  
@@ -170,7 +171,7 @@ There are several different parking lots around campus. Make sure to follow the 
 Halmstad airport is one of Sweden's most central airports, with flights to and from Stockholm/Bromma. From the airport, you can get to town via bus or taxi. By car, it takes around 10 minutes from the town centre. Local bus route 40 stops just outside the terminal entrance.
 
 When travelling to Halmstad from abroad, it is often easiest to fly to Copenhagen Airport (Denmark) and take the train directly to Halmstad. Look for a train going to Göteborg, which will stop at Halmstad along the way.
-[Halmstad airport]: https://www.halmstadcityairport.se/
+[Halmstad airport][Halmstad airport]: https://www.halmstadcityairport.se/
 
 ### By train
 Train services will take you to central Halmstad. The train station is within walking distance to the centre of town. It takes about 10 minutes to walk to the University. Should you wish to take the bus instead, there are buses from the train station to most parts of town.
