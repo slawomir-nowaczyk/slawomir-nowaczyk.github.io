@@ -116,7 +116,7 @@ Submission site will open on 2025-03-01.
 
 ## Registration
 <details>
-<summary>More details here.</summary>
+<summary>Click here to see more details</summary>
 <br>
 Online registration for authors and participants will open on 2025-05-01. Registration fee has not yet been decided, but we expect to keep it on par with last years, in the 2000-3000 SEK range. Registration will include coffee, lunches, and conference dinner.
 
