@@ -153,9 +153,9 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 [Center for Applied Intelligent Systems Research (CAISR)]: https://www.hh.se/caisr
 [School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
-%<details>
-%<summary>Here will be info about possible accommodation at Halmstad</summary>
-%</details>
+<!-- <details> -->
+<!-- <summary>Here will be info about possible accommodation in Halmstad</summary> -->
+<!-- </details> -->
 
 
 ## Getting here 
