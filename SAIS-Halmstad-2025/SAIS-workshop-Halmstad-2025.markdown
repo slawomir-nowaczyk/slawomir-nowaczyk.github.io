@@ -155,8 +155,8 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 [School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
 ## Getting here 
-<summary>Here are some practical informations about how to get to and around Halmstad</summary>
 <details>
+<summary>Here are some practical informations about how to get to and around Halmstad</summary> 
 To cycle or take the bus/drive between the town centre and Halmstad University only takes a few minutes, the distance is around two kilometres. The easiest way is to follow Laholmsvägen straight to the University.
  
 ### By car
@@ -164,8 +164,8 @@ If you're driving from Malmö or Göteborg, take the E6 motorway to the southern
 
 When you approach Halmstad from Växjö or Jönköping, take the E6 motorway southbound (towards Malmö), get off at the southern exit and then drive towards the town centre. Follow the instructions above.
 
-There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our campus map.
-[Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278
+There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our [Campus map] campus map.
+
 
 ### By plane
 Halmstad airport is one of Sweden's most central airports, with flights to and from Stockholm/Bromma. From the airport, you can get to town via bus or taxi. By car, it takes around 10 minutes from the town centre. Local bus route 40 stops just outside the terminal entrance.
@@ -180,7 +180,8 @@ For information on train timetables, please see the train services' individual w
 [Öresundstag]: https://www.oresundstag.se/
 [SJ]: https://www.sj.se/#/
 [Krösatågen]: http://www.krosatagen.se/
- 
+
+[Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278 
 </details>
 
 ## Organizing Committee
