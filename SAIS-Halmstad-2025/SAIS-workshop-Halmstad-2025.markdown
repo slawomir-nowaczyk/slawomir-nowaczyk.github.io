@@ -54,8 +54,8 @@ While deep learning has significantly advanced recognition and generative tasks 
  
 **Bio:**
 Kalle Åström is a professor at the Centre for Mathematical Sciences at Lund University. His research spans from basic research in algebraic geometry, applied mathematical research and dissemination in industry and society as a whole. His master's thesis on autonomous vehicles was awarded first prize in Innovation Cup, 1991. The dissertation from 1996, won prize as best Nordic dissertation in machine learning and image analysis. He is the founder of several companies, Neuromathic, Spiideo, Cognimatics and Decuma, where Decuma won the EU's "IST grand prize" in 2005. He has been co-editor for IEEE transaction on Pattern Analysis and Machine Intelligence, and was the track chair for International Conference on Pattern Recognition in 2014. He has written about 230 reviewed scientific articles in scientific journals and conferences and has been main or co-supervisor for 30 PhD students. Currently he is coordinating the AI Lund network at Lund University.
- 
 
+ 
 ![Benyou Wang](/assets/photos/BenyouWang.jpg "Benyou Wang"){: style="float: left; width: 250px; margin-right: 1em;"}
 **Benyou Wang**, Assistant Professor at The Chinese University of Hong Kong, Shenzhen.
 
@@ -113,7 +113,6 @@ All submissions will be peer-reviewed by the conference program committee and ac
 
 Submission site will open on 2025-03-01.
 
-
 ## Registration
 <details>
 <summary>Click here to see more details</summary>
@@ -154,6 +153,11 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 [Center for Applied Intelligent Systems Research (CAISR)]: https://www.hh.se/caisr
 [School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
+%<details>
+%<summary>Here will be info about possible accommodation at Halmstad</summary>
+%</details>
+
+
 ## Getting here 
 <details>
 <summary>Here are some practical informations about how to get to and around Halmstad</summary> 
@@ -166,7 +170,6 @@ When you approach Halmstad from Växjö or Jönköping, take the E6 motorway sou
 
 There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our [Campus map].
 
-
 ### By plane
 Halmstad airport is one of Sweden's most central airports, with flights to and from Stockholm/Bromma. From the airport, you can get to town via bus or taxi. By car, it takes around 10 minutes from the town centre. Local bus route 40 stops just outside the terminal entrance.
 
@@ -177,7 +180,6 @@ Train services will take you to central Halmstad. The train station is within wa
 
 For information on train timetables, please see the train services' individual websites [Öresundstag],
 [SJ], [Krösatågen].
-
 
 [Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278 
 [Halmstad airport]: https://www.halmstadcityairport.se/
