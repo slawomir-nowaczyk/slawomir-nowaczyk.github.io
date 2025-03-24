@@ -206,7 +206,7 @@ For information on train timetables, please see the train services' individual w
 
 ## Program Committee
 
-To be decided...
+To be decided....
 
 ## Partners 
 
