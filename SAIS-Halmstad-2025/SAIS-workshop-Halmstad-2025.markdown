@@ -11,7 +11,7 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 [Swedish AI Society (SAIS)]: https://www.sais.se/blog/
 [Halmstad University]: https://www.hh.se/english.html
 
-## Important Dates
+## Important Dates {#Important-Dates}
 
 **Attendees**
 
@@ -26,7 +26,7 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 | Author Notification     | 2025-05-05|
 | Camera-Ready Submission | 2025-05-15|
 
-## Submission
+## Submission {#Submission}
 
 CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025](https://cmt3.research.microsoft.com/SAIS2025).
 
@@ -41,7 +41,7 @@ The [Microsoft CMT service] was used for managing the peer-reviewing process for
 
 [Microsoft CMT service]: https://cmt3.research.microsoft.com/
 
-## Invited Speakers
+## Invited Speakers {#Invited-Speakers}
 
 ![Kalle Åström](/assets/photos/KalleAstrom.png "Kalle Åström"){: style="float: left; width: 250px; margin-right: 1em;"}
 **Kalle Åström**, Professor in Mathematics and Computer Vision at Lund University.
@@ -78,7 +78,7 @@ Expectations and the promise of AI in health and care are great, but actual valu
 **Bio:**
 Markus Lingman is adj professor of medicine at the Dept. Information technology at Halmstad University and researcher at Sahlgrenska Academy, Gothenburg. Insights from research are actioned in his role as Chief Strategy Officer of Region Halland. With a background as specialist physician and in healthcare management Markus´work revolves around the translation from care data to value for patients and providers. In 2020 he was named AI-Swede of the year by the Swedish medtech sector and in 2024 the National Government appointed member of the Scientific Council for Medicine and Health. Dominating current academic projects are on detection of risk for sudden cardiac death together with UC Berkeley, and identifying early exacerbation of chronic disease using smart watch data in collaboration with Stanford School of Medicine.
 
-## Call for Papers
+## Call for Papers {#Call-for-Papers}
 In the last years, research on Artificial Intelligence has made both academia and industry to take a more active role in engaging with the general public. The immense success of recent results appears almost endless, but they are not without faults or concerns. Addressing the role these technologies can have in human society is therefore important. The 2025 SAIS workshop, organised by the Swedish AI Society, invites researchers and industry practitioners working on all facets of AI to share their research.
 
 Contributions are welcome from all areas of Artificial Intelligence, and topics of interest include:
@@ -100,6 +100,7 @@ Contributions are welcome from all areas of Artificial Intelligence, and topics 
 * Search Algorithms
 * Multi-Agent-Systems
 
+### Submission types {#Submission-types}
 For the scientific program of the conference, we invite five types of contributions:
 
 * 10-15 pages full paper describing original contributions that are not under review at another venue. This category will be published in SAIS 2025 proceedings at CEUR-WS, unless the authors opt-out.
@@ -113,8 +114,8 @@ All submissions will be peer-reviewed by the conference program committee and ac
 
 Submission site will open on 2025-03-01.
 
-## Registration
-<details>
+## Registration {#Registration}
+<details markdown="1">
 <summary>Click here to see more details</summary>
 <br>
 Online registration for authors and participants will open on 2025-05-01. Registration fee has not yet been decided, but we expect to keep it on par with last years, in the 2000-3000 SEK range. Registration will include coffee, lunches, and conference dinner.
@@ -135,13 +136,13 @@ Activity number when making a payment: 960477. Please include also your full nam
 For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
 </details>
 
-## Conference Programme
+## Conference Programme {#Conference-Programme}
 
 The workshop is planned to start around 9:00 on Monday, 16th of June 2025 and to end late afternoon, around 17:00, on Tuesday 17th of June 2025.
 
 We are also planning to organise Industrial Trustworthy AI Day, co-located with SAIS 2025, on Wednesday, 18th of June 2025.
 
-<details>
+<details markdown="1">
 <summary>Detailed programme will appear here once it is decided.</summary>
 <!-- <br>
 Monday 16.06 
@@ -157,16 +158,12 @@ SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Res
 [Center for Applied Intelligent Systems Research (CAISR)]: https://www.hh.se/caisr
 [School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
-<!-- <details> -->
-<!-- <summary>Here will be info about possible accommodation in Halmstad</summary> -->
-<!-- </details> -->
-
-
 ## Getting here 
-<details>
-<summary>Here are some practical informations about how to get to and around Halmstad</summary> 
+
+<details markdown="1">
+<summary>Here are some practical informations about how to get to and around Halmstad</summary>
 To cycle or take the bus/drive between the town centre and Halmstad University only takes a few minutes, the distance is around two kilometres. The easiest way is to follow Laholmsvägen straight to the University.
- 
+
 ### By car
 If you're driving from Malmö or Göteborg, take the E6 motorway to the southern exit of Halmstad and then drive towards the town centre. After a few kilometres, you will see a tall glass building on the left hand side of the road. Turn left at the intersection by the building.
 
