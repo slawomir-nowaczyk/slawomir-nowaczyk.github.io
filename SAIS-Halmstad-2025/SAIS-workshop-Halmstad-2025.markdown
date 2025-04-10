@@ -21,10 +21,11 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 **Authors**
 
-| Submission Site Opening | 2025-03-10|
-| Submission Deadline     | 2025-04-10|
-| Author Notification     | 2025-05-05|
-| Camera-Ready Submission | 2025-05-15|
+| Submission Deadline     | ~~2025-04-10~~|
+| Submission Deadline (Full Papers)     | 2025-04-20|
+| Submission Deadline (Short Papers & Demos)     | 2025-04-30|
+| Author Notification     | 2025-05-12|
+| Camera-Ready Submission | 2025-05-21|
 
 ## Submission {#Submission}
 
