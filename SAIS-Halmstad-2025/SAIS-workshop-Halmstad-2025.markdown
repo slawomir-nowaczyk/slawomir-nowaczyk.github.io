@@ -17,30 +17,39 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 | Workshop Dates        | 2025-06-16 and 2025-06-17 |
 | Registration Open	| 2025-05-01 |
-| Registration Deadline | 2025-06-09 |
+| Early Registration Deadline | 2025-06-01 |
+| Late Registration Deadline | 2025-06-09 |
 
 **Authors**
 
-| Submission Deadline     | ~~2025-04-10~~|
-| Submission Deadline (Full Papers)     | 2025-04-20|
-| Submission Deadline (Short Papers & Demos)     | 2025-04-30|
-| Author Notification     | 2025-05-12|
-| Camera-Ready Submission | 2025-05-21|
+| Submission Deadline     | ~~2025-04-10~~ |
+| Submission Deadline (Short Papers & Demos)     | 2025-05-15 |
+| Submission Deadline (Full Papers)     | 2025-04-20 |
+| Author Notification     | 2025-05-12 |
+| Camera-Ready Submission | 2025-05-21 |
 
-## Submission {#Submission}
+## Registration {#Registration}
 
-CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025](https://cmt3.research.microsoft.com/SAIS2025).
+Authors and participants can now register through [this link](https://forms.gle/M6Bwakf3oBHP7sno7). Payment should be done according to information below.
 
-Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c). Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
+Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06-01) and 3000 SEK after that. Registration includes admittance for the conference activities, coffee, lunches, and conference dinner. There is a possibility of buying an additional dinner ticket for accompanying person.
 
-[Instructions for authors on how to submit a paper] and a link for [Creating a CMT account]
+It is also possible to register for Industrial Trustworthy AI Day (co-located with SAIS on 18th June), with a separate registration fee of 500kr.
 
-[Creating a CMT account]: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html
-[Instructions for authors on how to submit a paper]: https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html
+#### Payment information:
+Organisationsnummer: 202100-3203 <br/>
+VAT-nr: SE202100320301 <br/>
+Bankgiro: 5328-2414 <br/>
+#### Bank information:
+Danske Bank Sverige <br/>
+Box 7523 <br/>
+SE-103 92 Stockholm <br/>
+IBAN-nr: SE4612000000012810112657 <br/>
+SWIFT-adress: DABASESX
+#### Activity number:
+Activity number when making a payment: 960477. Please include also your full name.
 
-The [Microsoft CMT service] was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support
-
-[Microsoft CMT service]: https://cmt3.research.microsoft.com/
+For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
 
 ## Invited Speakers {#Invited-Speakers}
 
@@ -79,6 +88,21 @@ Expectations and the promise of AI in health and care are great, but actual valu
 **Bio:**
 Markus Lingman is adj professor of medicine at the Dept. Information technology at Halmstad University and researcher at Sahlgrenska Academy, Gothenburg. Insights from research are actioned in his role as Chief Strategy Officer of Region Halland. With a background as specialist physician and in healthcare management Markus´work revolves around the translation from care data to value for patients and providers. In 2020 he was named AI-Swede of the year by the Swedish medtech sector and in 2024 the National Government appointed member of the Scientific Council for Medicine and Health. Dominating current academic projects are on detection of risk for sudden cardiac death together with UC Berkeley, and identifying early exacerbation of chronic disease using smart watch data in collaboration with Stanford School of Medicine.
 
+## Submission {#Submission}
+
+CMT submission link: [https://cmt3.research.microsoft.com/SAIS2025](https://cmt3.research.microsoft.com/SAIS2025).
+
+Workshop papers will be published in [CEUR Workshop Proceedings](https://ceur-ws.org/). We suggest using [this Overleaf template](https://www.overleaf.com/read/kgsvyjvpdxcs#cf879c). Detailed formatting instructions can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
+
+[Instructions for authors on how to submit a paper] and a link for [Creating a CMT account]
+
+[Creating a CMT account]: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html
+[Instructions for authors on how to submit a paper]: https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html
+
+The [Microsoft CMT service] was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support
+
+[Microsoft CMT service]: https://cmt3.research.microsoft.com/
+
 ## Call for Papers {#Call-for-Papers}
 In the last years, research on Artificial Intelligence has made both academia and industry to take a more active role in engaging with the general public. The immense success of recent results appears almost endless, but they are not without faults or concerns. Addressing the role these technologies can have in human society is therefore important. The 2025 SAIS workshop, organised by the Swedish AI Society, invites researchers and industry practitioners working on all facets of AI to share their research.
 
@@ -104,7 +128,7 @@ Contributions are welcome from all areas of Artificial Intelligence, and topics 
 ### Submission types {#Submission-types}
 For the scientific program of the conference, we invite five types of contributions:
 
-* 10-15 pages full paper describing original contributions that are not under review at another venue. This category will be published in SAIS 2025 proceedings at CEUR-WS, unless the authors opt-out.
+* 10-16 pages full paper describing original contributions that are not under review at another venue. This category will be published in SAIS 2025 proceedings at CEUR-WS, unless the authors opt-out.
 * 3-5 pages general descriptions of current and ongoing projects, intended to disseminate work-in-progress results and undeveloped but interesting ideas; the goals is promoting awareness of research taking place within Sweden, and building up new collaborations. This category will not be included in the proceedings, only presented at the event.
 * 2 pages extended abstracts of previously published papers in prestigious AI journals and conferences (within the last 12 months), intended to disseminate important ideas within Sweden. This category will not be included in the proceedings, only presented at the event.
 * up to 2 pages descriptions of AI industrial applications and/or demonstrating use cases that leverage machine learning and AI techniques in a real-world setting. At least one author should be from industry. This category will not be included in the proceedings, only presented at the event.
@@ -114,28 +138,6 @@ For the scientific program of the conference, we invite five types of contributi
 All submissions will be peer-reviewed by the conference program committee and accepted contributions will be part of workshop programme as oral presentations, practical demonstrations or posters.
 
 Submission site will open on 2025-03-01.
-
-## Registration {#Registration}
-<details markdown="1">
-<summary>Click here to see more details</summary>
-<br>
-Online registration for authors and participants will open on 2025-05-01. Registration fee has not yet been decided, but we expect to keep it on par with last years, in the 2000-3000 SEK range. Registration will include coffee, lunches, and conference dinner.
-
-### Payment information:
-Organisationsnummer: 202100-3203 <br/>
-VAT-nr: SE202100320301 <br/>
-Bankgiro: 5328-2414 <br/>
-### Bank information:
-Danske Bank Sverige <br/>
-Box 7523 <br/>
-SE-103 92 Stockholm <br/>
-IBAN-nr: SE4612000000012810112657 <br/>
-SWIFT-adress: DABASESX
-### Activity number:
-Activity number when making a payment: 960477. Please include also your full name.
-
-For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
-</details>
 
 ## Conference Programme {#Conference-Programme}
 
