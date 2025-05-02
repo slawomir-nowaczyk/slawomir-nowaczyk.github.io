@@ -1,12 +1,18 @@
 ---
 layout: page
-title: "SAIS-2025: Swedish AI Society workshop 2025, Halmstad, 16-17 June"
+title: "SAIS 2025: Swedish AI Society workshop 2025, Halmstad, 16-17 June"
 permalink: /SAIS-2025
 ---
 
-This year's workshop of [Swedish AI Society (SAIS)] will take place at [Halmstad University] on 16-17 June 2025.
+This year's workshop of [Swedish AI Society (SAIS)] will take place on on 16-17 June 2025 and will be hosted at [Center for Applied Intelligent Systems Research (CAISR)], [School of Information Technology], [Halmstad University], Halmstad, Sweden. Venue location on [Google Maps].
+
+[Google Maps]: https://maps.app.goo.gl/fw3k8GUuWtJw3Pnf8
+[Center for Applied Intelligent Systems Research (CAISR)]: https://www.hh.se/caisr
+[School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
 SAIS workshops aim to bring together researchers and practitioners from the field of Artificial Intelligence to present and discuss ongoing work and future directions for AI. They provide a forum for networking among researchers as well as building links with related research fields, practitioners and businesses.
+
+We also invite everyone to Industrial Trustworthy AI Day, co-located with SAIS on 18th June 2025.
 
 [Swedish AI Society (SAIS)]: https://www.sais.se/blog/
 [Halmstad University]: https://www.hh.se/english.html
@@ -22,11 +28,11 @@ SAIS workshops aim to bring together researchers and practitioners from the fiel
 
 **Authors**
 
-| Submission Deadline     | ~~2025-04-10~~ |
+| ~~Submission Deadline~~     | ~~2025-04-10~~ |
 | Submission Deadline (Short Papers & Demos)     | 2025-05-15 |
-| Submission Deadline (Full Papers)     | 2025-04-20 |
-| Author Notification     | 2025-05-12 |
-| Camera-Ready Submission | 2025-05-21 |
+| ~~Submission Deadline (Full Papers)~~     | ~~2025-04-20~~ |
+| Author Notification     | 2025-05-20 |
+| Camera-Ready Submission | 2025-05-31 |
 
 ## Registration {#Registration}
 
@@ -37,19 +43,19 @@ Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06
 It is also possible to register for Industrial Trustworthy AI Day (co-located with SAIS on 18th June), with a separate registration fee of 500kr.
 
 #### Payment information:
+When making a payment for the conference, please include activity number 960477 and your full name.
+
 Organisationsnummer: 202100-3203 <br/>
 VAT-nr: SE202100320301 <br/>
 Bankgiro: 5328-2414 <br/>
-#### Bank information:
+
 Danske Bank Sverige <br/>
 Box 7523 <br/>
 SE-103 92 Stockholm <br/>
 IBAN-nr: SE4612000000012810112657 <br/>
 SWIFT-adress: DABASESX
-#### Activity number:
-Activity number when making a payment: 960477. Please include also your full name.
 
-For exceptions or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
+For payment via invoice, exceptions, or prices including VAT, please send an email to Jessika Rosenberg: jessika.rosenberg@hh.se
 
 ## Invited Speakers {#Invited-Speakers}
 
@@ -152,14 +158,6 @@ Monday 16.06
 <br>
 Tuesday 17.06 -->
 </details>
-
-## Venue and Accommodation
-
-SAIS 2025 workshop will be hosted at [Center for Applied Intelligent Systems Research (CAISR)], [School of Information Technology], [Halmstad University], Halmstad, Sweden. Venue location on [Google Maps].
-
-[Google Maps]: https://maps.app.goo.gl/fw3k8GUuWtJw3Pnf8
-[Center for Applied Intelligent Systems Research (CAISR)]: https://www.hh.se/caisr
-[School of Information Technology]: https://www.hh.se/english/about-the-university/schools/school-of-information-technology.html
 
 ## Getting here 
 
