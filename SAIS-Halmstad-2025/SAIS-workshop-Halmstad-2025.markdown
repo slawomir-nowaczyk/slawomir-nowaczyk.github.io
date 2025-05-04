@@ -12,7 +12,7 @@ This year's workshop of [Swedish AI Society (SAIS)] will take place on on 16-17 
 
 SAIS workshops aim to bring together researchers and practitioners from the field of Artificial Intelligence to present and discuss ongoing work and future directions for AI. They provide a forum for networking among researchers as well as building links with related research fields, practitioners and businesses.
 
-We also invite everyone to Industrial Trustworthy AI Day, co-located with SAIS on 18th June 2025.
+We also invite everyone to [Socially Responsible and Trustworthy AI Day](Trust-AI-2025), co-located with SAIS on 18th June 2025.
 
 [Swedish AI Society (SAIS)]: https://www.sais.se/blog/
 [Halmstad University]: https://www.hh.se/english.html
@@ -38,9 +38,13 @@ We also invite everyone to Industrial Trustworthy AI Day, co-located with SAIS o
 
 Authors and participants can now register through [this link](https://forms.gle/M6Bwakf3oBHP7sno7). Payment should be done according to information below.
 
+Please find [information on the venue, getting to Halmstad, and available accommodation](/SAIS-2025-Accommodation).
+
+The [Swedish AI Society](https://www.sais.se/blog/) has arranged a number of stipends for PhD students covering the registration fee. Details on how to apply for these will appear here shortly.
+
 Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06-01) and 3000 SEK after that. Registration includes admittance for the conference activities, coffee, lunches, and conference dinner. There is a possibility of buying an additional dinner ticket for accompanying person.
 
-It is also possible to register for Industrial Trustworthy AI Day (co-located with SAIS on 18th June), with a separate registration fee of 500kr.
+It is also possible to register for [Socially Responsible and Trustworthy AI Day](Trust-AI-2025) (co-located with SAIS on 18th June), with a separate registration fee of 500kr.
 
 #### Payment information:
 When making a payment for the conference, please include activity number 960477 and your full name.
@@ -149,92 +153,25 @@ Submission site will open on 2025-03-01.
 
 The workshop is planned to start around 9:00 on Monday, 16th of June 2025 and to end late afternoon, around 17:00, on Tuesday 17th of June 2025.
 
-We are also planning to organise Industrial Trustworthy AI Day, co-located with SAIS 2025, on Wednesday, 18th of June 2025.
+We also invite everyone to [Socially Responsible and Trustworthy AI Day](Trust-AI-2025), co-located with SAIS on 18th June 2025.
 
 <details markdown="1">
 <summary>Detailed programme will appear here once it is decided.</summary>
-<!-- <br>
+<br>
 Monday 16.06 
 <br>
-Tuesday 17.06 -->
+Tuesday 17.06
 </details>
-
-## Getting here 
-
-<details markdown="1">
-<summary>Here are some practical informations about how to get to and around Halmstad</summary>
-To cycle or take the bus/drive between the town centre and Halmstad University only takes a few minutes, the distance is around two kilometres. The easiest way is to follow Laholmsvägen straight to the University.
-
-### By car
-If you're driving from Malmö or Göteborg, take the E6 motorway to the southern exit of Halmstad and then drive towards the town centre. After a few kilometres, you will see a tall glass building on the left hand side of the road. Turn left at the intersection by the building.
-
-When you approach Halmstad from Växjö or Jönköping, take the E6 motorway southbound (towards Malmö), get off at the southern exit and then drive towards the town centre. Follow the instructions above.
-
-There are several different parking lots around campus. Make sure to follow the instructions for the parking lot you are using in order to use the correct payment services. You can easily find car parks and charging points on our [Campus map].
-
-### By plane
-Halmstad airport is one of Sweden's most central airports, with flights to and from Stockholm/Bromma. From the airport, you can get to town via bus or taxi. By car, it takes around 10 minutes from the town centre. Local bus route 40 stops just outside the terminal entrance.
-
-When travelling to Halmstad from abroad, it is often easiest to fly to Copenhagen Airport (Denmark) and take the train directly to Halmstad. Look for a train going to Göteborg, which will stop at Halmstad along the way. [Halmstad airport]
-
-### By train
-Train services will take you to central Halmstad. The train station is within walking distance to the centre of town. It takes about 10 minutes to walk to the University. Should you wish to take the bus instead, there are buses from the train station to most parts of town.
-
-For information on train timetables, please see the train services' individual websites [Öresundstag],
-[SJ], [Krösatågen].
-
-[Campus map]: https://use.mazemap.com/#v=1&zlevel=1&center=12.879070,56.663553&zoom=16.4&campusid=278 
-[Halmstad airport]: https://www.halmstadcityairport.se/
-[Öresundstag]: https://www.oresundstag.se/
-[SJ]: https://www.sj.se/#/
-[Krösatågen]: http://www.krosatagen.se/
-</details>
-
-## Accommodation 
-
-There are several good hotels to stay in Halmstad. All are within walking distance or a short ride away from Halmstad University.
-
-Here are a few suggestions for the hotels offering a special workshop rates:
-
-### Hotell Mårtenson
-This hotel is part of Elite hotels chain and it is situated in the heart of the city centre close to the Nissan river and Norre Port (North Gate). 
-The workshop dinner on 16th June will be held there. 
-To book, please visit webpage https://www.elite.se/hotell/halmstad/elite-hotell-martenson/
-Choose the date and fill in the Groupcode which is 5527214. 
-
-The code is valid for reservation between 15-17.06. The price is 1295 SEK/night incl. tax.
-
-### Hotel Scandic Hallandia
-Scandic Hallandia is also situated in the city centre, close to the Main Square and the Halmstad Castle. 
-For booking please visit webpage www.scandichotels.se and the booking code is BHOG150625.
-
-The price is 1290 SEK/night incl. tax and breakfast.
-
-The rates and code are valid for accommodation between 15-17 June 2025. The deadline for booking is 16 May at the latest, and there is a free cancellation policy until 18:00 local time on the day of arrival.
-
-Reservations must be guaranteed by credit card at the time of booking but payment is made at the hotel. In case of late cancellation or no-show, the hotel is entitled to charge 100% of the reservation price.
-
-You can also call Scandic's central bookning 08-517 517 00 and provide the booking code BHOG150625 when making a reservation.
-
-### Profil Hotel 
-The Profil Hotel is located near the train station and is just a 15-minute walk from Halmstad University.
-The booking can be done directly via this webpage https://redirects.ligula.se/SAIS
-The offer is valid for reservation between 15-17.06.
-
-The price is 1170 SEK/night excl. tax but with breakfast.
-
-You may also contact the reception directly by phone +46 (0)35 240 10 00 or email HalmstadPlaza@profilhotels.se.
-
 
 ## Organizing Committee
 
 | Slawomir Nowaczyk | General Chair |
 | Thorsteinn Rögnvaldsson | General Chair |
+| Marlena Nowaczyk | Local Chair |
 | Greg Nalepa | Program Chair |
 | Anna Vettoruzzo | Program Chair |
 | Sepideh Pashami | Industry Liaison |
 | Carlos Silla | Publicity Chair |
-| Marlena Nowaczyk | Local Chair |
 | Stefan Byttner | Keynote Chair |
 | Camilla Soto | Logistics Chair |
 
