@@ -202,7 +202,7 @@ The workshop dinner on 16th June will be held there.
 To book, please visit webpage https://www.elite.se/hotell/halmstad/elite-hotell-martenson/
 Choose the date and fill in the Groupcode which is 5527214. 
 
-The rooms are available 15-17.06. The price is 1295 SEK/night incl. tax.
+The code is valid for reservation between 15-17.06. The price is 1295 SEK/night incl. tax.
 
 ### Hotel Scandic Hallandia
 Scandic Hallandia is also situated in the city centre, close to the Main Square and the Halmstad Castle. 
@@ -219,6 +219,7 @@ You can also call Scandic's central bookning 08-517 517 00 and provide the booki
 ### Profil Hotel 
 The Profil Hotel is located near the train station and is just a 15-minute walk from Halmstad University.
 The booking can be done directly via this webpage https://redirects.ligula.se/SAIS
+The offer is valid for reservation between 15-17.06.
 
 The price is 1170 SEK/night excl. tax but with breakfast.
 
