@@ -190,6 +190,41 @@ For information on train timetables, please see the train services' individual w
 [Krösatågen]: http://www.krosatagen.se/
 </details>
 
+## Accommodation 
+
+There are several good hotels to stay in Halmstad. All are within walking distance or a short ride away from Halmstad University.
+
+Here are a few suggestions for the hotels offering a special workshop rates:
+
+### Hotell Mårtenson
+This hotel is part of Elite hotels chain and it is situated in the heart of the city centre close to the Nissan river and Norre Port (North Gate). 
+The workshop dinner on 16th June will be held there. 
+To book, please visit webpage https://www.elite.se/hotell/halmstad/elite-hotell-martenson/
+Choose the date and fill in the Groupcode which is 5527214. 
+
+The rooms are available 15-17.06. The price is 1295 SEK/night incl. tax.
+
+### Hotel Scandic Hallandia
+Scandic Hallandia is also situated in the city centre, close to the Main Square and the Halmstad Castle. 
+For booking please visit webpage www.scandichotels.se and the booking code is BHOG150625.
+
+The price is 1290 SEK/night incl. tax and breakfast.
+
+The rates and code are valid for accommodation between 15-17 June 2025. The deadline for booking is 16 May at the latest, and there is a free cancellation policy until 18:00 local time on the day of arrival.
+
+Reservations must be guaranteed by credit card at the time of booking but payment is made at the hotel. In case of late cancellation or no-show, the hotel is entitled to charge 100% of the reservation price.
+
+You can also call Scandic's central bookning 08-517 517 00 and provide the booking code BHOG150625 when making a reservation.
+
+### Profil Hotel 
+The Profil Hotel is located near the train station and is just a 15-minute walk from Halmstad University.
+The booking can be done directly via this webpage https://redirects.ligula.se/SAIS
+
+The price is 1170 SEK/night excl. tax but with breakfast.
+
+You may also contact the reception directly by phone +46 (0)35 240 10 00 or email HalmstadPlaza@profilhotels.se.
+
+
 ## Organizing Committee
 
 | Slawomir Nowaczyk | General Chair |
