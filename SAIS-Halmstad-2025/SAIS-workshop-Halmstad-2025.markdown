@@ -29,7 +29,7 @@ We also invite everyone to [Socially Responsible and Trustworthy AI Day](Trust-A
 **Authors**
 
 | ~~Submission Deadline~~     | ~~2025-04-10~~ |
-| Submission Deadline (Short Papers & Demos)     | 2025-05-15 |
+| Submission Deadline (Short Papers & Demos)     | 2025-05-16 |
 | ~~Submission Deadline (Full Papers)~~     | ~~2025-04-20~~ |
 | Author Notification     | 2025-05-20 |
 | Camera-Ready Submission | 2025-05-31 |
