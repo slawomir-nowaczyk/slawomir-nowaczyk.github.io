@@ -4,6 +4,8 @@ title: "SAIS 2025: Swedish AI Society workshop 2025, Halmstad, 16-17 June"
 permalink: /SAIS-2025
 ---
 
+![Halmstad University](/assets/HU-picture-2a.jpg "Halmstad University"){: style="display: block; width: 75%; margin: auto;"}
+
 This year's workshop of [Swedish AI Society (SAIS)] will take place on on 16-17 June 2025 and will be hosted at [Center for Applied Intelligent Systems Research (CAISR)], [School of Information Technology], [Halmstad University], Halmstad, Sweden. Venue location on [Google Maps].
 
 [Google Maps]: https://maps.app.goo.gl/fw3k8GUuWtJw3Pnf8
