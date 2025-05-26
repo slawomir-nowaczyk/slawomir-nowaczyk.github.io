@@ -44,7 +44,7 @@ Please find [here information on the venue, getting to Halmstad, and available a
 
 The [Swedish AI Society](https://www.sais.se/blog/) is sponsoring a number of fee waiver stipends for PhD students -- [apply here](https://forms.gle/nZAwHMe55aqD5D1c6) (by 2025-05-30).
 
-Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06-01) and 3000 SEK after that. Registration includes admittance for the conference activities, coffee, lunches, and conference dinner. There is a possibility of buying an additional dinner ticket for accompanying person.
+Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06-01) and 3000 SEK after that (per person). Registration includes admittance for the conference activities, coffee, lunches, and conference dinner. There is a possibility of buying an additional dinner ticket for accompanying person.
 
 It is also possible to register for [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai) (co-located with SAIS on 18th June), with a separate registration fee of 500kr.
 
