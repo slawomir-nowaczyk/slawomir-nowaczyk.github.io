@@ -21,20 +21,45 @@ We also invite everyone to [Socially Responsible and Trustworthy AI Day](https:/
 
 ## Important Dates {#Important-Dates}
 
-**Attendees**
-
-| Workshop Dates        | 2025-06-16 and 2025-06-17 |
-| Registration Open	| 2025-05-01 |
+| Workshop Dates        | **2025-06-16 and 2025-06-17** |
 | Early Registration Deadline | 2025-06-01 |
 | Late Registration Deadline | 2025-06-09 |
-
-**Authors**
-
-| ~~Submission Deadline~~     | ~~2025-04-10~~ |
-| Submission Deadline (Short Papers & Demos)     | 2025-05-16 |
-| ~~Submission Deadline (Full Papers)~~     | ~~2025-04-20~~ |
-| Author Notification     | 2025-05-20 |
 | Camera-Ready Submission | 2025-05-31 |
+
+## Conference Programme (preliminary) {#Conference-Programme}
+
+The workshop will start at 9:30 on Monday 16th of June 2025 and end at 17:00 on Tuesday 17th of June 2025. On Wednesday 18th June 2025 we also invite everyone to [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai) co-located with SAIS.
+
+### Monday 16th of June 2025
+
+|  08:30 |   09:25   | Registration & Welcome Fika |
+|  09:25 |   09:30   | Conference Opening |
+|  09:30 |   10:30   | Keynote 1 (Kalle Åström) |
+|  10:30 |   11:00   | Lightning Talks (6 short papers) |
+|  11:00 |   12:00   | Poster session |
+|  12:00 |   13:00   | Lunch |
+|  13:00 |   14:30   | Session 1 (3 full papers) |
+|  14:30 |   15:00   | Fika |
+|  15:00 |   16:00   | Session 2 (2 full papers) |
+|  16:00 |   16:20   | SAIS MSc Thesis Award |
+|  16:20 |  ~17:20   | SAIS yearly meeting |
+|  17:00 |  ~17:30   | Go to city center |
+| ~17:15 |   19:00   | Social activity |
+|  19:00 |  ~22:00   | Dinner |
+
+### Tuesday 17th of June 2025
+
+| 09:00	| 10:00	| Keynote 2 (Markus Lingman)
+| 10:00	| 10:30	| Fika
+| 10:30	| 11:00	| Session 3 (1 full paper)
+| 11:00	| 11:45	| Lightning Talks (8 short papers)
+| 11:45	| 12:45	| Lunch
+| 12:45	| 14:45	| Session 4 (4 full papers)
+| 14:45	| 15:15	| Fika
+| 15:15	| 16:15	| Keynote 3 (Benyou Wang)
+| 16:15	| 16:45	| Poster Session & Farewell Fika
+| 16:45	| 17:00	| Closing ceremony
+
 
 ## Registration {#Registration}
 
@@ -149,37 +174,35 @@ For the scientific program of the conference, we invite five types of contributi
 
 All submissions will be peer-reviewed by the conference program committee and accepted contributions will be part of workshop programme as oral presentations, practical demonstrations or posters.
 
-Submission site will open on 2025-03-01.
-
-## Conference Programme {#Conference-Programme}
-
-The workshop is planned to start around 9:00 on Monday, 16th of June 2025 and to end late afternoon, around 17:00, on Tuesday 17th of June 2025.
-
-We also invite everyone to [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai), co-located with SAIS on 18th June 2025.
-
-<details markdown="1">
-<summary>Detailed programme will appear here once it is decided.</summary>
-<br>
-Monday 16.06 
-<br>
-Tuesday 17.06
-</details>
-
 ## Organizing Committee
 
 | Slawomir Nowaczyk | General Chair |
 | Thorsteinn Rögnvaldsson | General Chair |
 | Marlena Nowaczyk | Local Chair |
-| Greg Nalepa | Program Chair |
 | Anna Vettoruzzo | Program Chair |
+| Greg Nalepa | Program Chair |
+| Aurora Esteban | Proceedings Chair |
 | Sepideh Pashami | Industry Liaison |
-| Carlos Silla | Publicity Chair |
 | Stefan Byttner | Keynote Chair |
 | Camilla Soto | Logistics Chair |
 
 ## Program Committee
 
-To be decided....
+* Abdallah Alabdallah, Halmstad University
+* Anders Holst, RISE SICS
+* Anna Vettoruzzo, Eindhoven University of Technology
+* Emmanuella Budu, Halmstad University
+* Eva Blomqvist, Linköping University
+* Fredrik Heintz, Linköping University
+* Gideon Mbiydzenyuy, University of Borås
+* Grzegorz Nalepa, Halmstad University
+* Kalle Åström, Lund University
+* Martin Boldt, Blekinge Institute of Technology
+* Panagiotis Papapetrou, Stockholm University
+* Parisa Jamshidi, Halmstad University
+* Paul Davidsson, Malmö University
+* Vincenzo Buono, Halmstad University
+* Yuantao Fan, Halmstad University
 
 ## Partners 
 
