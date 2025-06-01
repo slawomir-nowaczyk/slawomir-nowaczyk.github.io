@@ -204,9 +204,8 @@ All submissions will be peer-reviewed by the conference program committee and ac
 * Vincenzo Buono, Halmstad University
 * Yuantao Fan, Halmstad University
 
-## Partners 
+## Partners &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Premium Sponsor
 
 [![Halmstad University](/assets/logos/hh-logo.jpg "Halmstad University"){: style="float: left; height: 200px; margin-right: 1em;"}](https://hh.se/)
-
 [![SAIS](/assets/logos/sais-logo.png "SAIS"){: style="float: left; height: 200px; margin-right: 1em;"}](https://sais.se/)
-
+[![Region Halland](/assets/logos/Region-Halland-logo.jpg "Region Halland"){: style="float: left; height: 200px; margin-right: 1em; margin-left: 2em;"}](https://www.regionhalland.se/)
