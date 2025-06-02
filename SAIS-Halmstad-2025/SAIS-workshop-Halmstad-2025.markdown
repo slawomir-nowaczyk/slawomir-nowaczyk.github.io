@@ -28,7 +28,7 @@ We also invite everyone to [Socially Responsible and Trustworthy AI Day](https:/
 
 ## Conference Programme (preliminary) {#Conference-Programme}
 
-The workshop will start at 9:30 on Monday 16th of June 2025 and end at 17:00 on Tuesday 17th of June 2025. On Wednesday 18th June 2025 we also invite everyone to [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai) co-located with SAIS.
+The workshop will start at 9:30 on Monday 16th of June 2025 and end at 17:00 on Tuesday 17th of June 2025. On Wednesday 18th June 2025 we also invite everyone to [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai) co-located with SAIS. The event will take place in Building S, room S1020.
 
 ### Monday 16th of June 2025
 
@@ -66,8 +66,6 @@ The workshop will start at 9:30 on Monday 16th of June 2025 and end at 17:00 on 
 Authors and participants can now register through [this link](https://forms.gle/M6Bwakf3oBHP7sno7). Payment should be done according to information below.
 
 Please find [here information on the venue, getting to Halmstad, and available accommodation](/SAIS-2025-Accommodation).
-
-The [Swedish AI Society](https://www.sais.se/blog/) is sponsoring a number of fee waiver stipends for PhD students -- [apply here](https://forms.gle/nZAwHMe55aqD5D1c6) (by 2025-05-30).
 
 Registration fee for SAIS 2025 is 2500 SEK for early registration (until 2025-06-01) and 3000 SEK after that (per person). Registration includes admittance for the conference activities, coffee, lunches, and conference dinner. There is a possibility of buying an additional dinner ticket for accompanying person.
 
