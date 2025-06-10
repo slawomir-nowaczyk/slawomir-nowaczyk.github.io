@@ -32,7 +32,7 @@ We also invite everyone to [Socially Responsible and Trustworthy AI Day](https:/
 
 The workshop will start at 9:30 on Monday 16th of June 2025 and end at 17:00 on Tuesday 17th of June 2025. On Wednesday 18th June 2025 we also invite everyone to [Socially Responsible and Trustworthy AI Day](https://lyyti.events/p/socially-responsible-and-trustworthy-ai) co-located with SAIS. 
 
-The event will take place in Building S, room S1020, see our [Interactive campus map](https://use.mazemap.com/#v=1&zlevel=1&center=12.879556,56.662943&zoom=16.4&campusid=278){:target="_blank"}.
+The event will take place in Building S, room S1020, see our [Interactive campus map](https://use.mazemap.com/#v=1&zlevel=1&center=12.879556,56.662943&zoom=16.4&campusid=278){:target="_blank"}. How to [get here](/SAIS-2025-Accommodation).
 
 ### Monday 16th of June 2025
 
