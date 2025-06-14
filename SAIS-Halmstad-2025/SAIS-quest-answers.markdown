@@ -35,7 +35,7 @@ Here are the answers to the city quests during [Swedish AI Society workshop 2025
 <details><summary>1.</summary>one arm, south</details>
 <details><summary>2.</summary>Nissan</details>
 <details><summary>3.</summary>balls</details>
-<details><summary>4.</summary>two, duo, gold</details>
+<details><summary>4.</summary>two, dos, gold</details>
 <details><summary>5.</summary>Cu</details>
 <details><summary>6.</summary>ship</details>
 <details><summary>7.</summary>wings</details>
