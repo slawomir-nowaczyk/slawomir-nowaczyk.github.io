@@ -31,7 +31,7 @@ permalink: /Full-Programme
 |  16:00 |   16:20   | **SAIS MSc Thesis Award** |
 |  16:20 |  ~17:20   | **SAIS yearly meeting** |
 |  17:00 |  ~17:30   | Go to city center |
-| ~17:15 |   19:00   | Social activity (city quest starting at [Halmstads Slott](https://maps.app.goo.gl/BtsvVbVNGYFZX8sG9) or [Stora Torg](https://maps.app.goo.gl/KnHEaAFFsYyEBjuJ8)|
+| ~17:15 |   19:00   | Social activity (city quest starting at [Halmstads Slott](https://maps.app.goo.gl/BtsvVbVNGYFZX8sG9) or [Stora Torg](https://maps.app.goo.gl/KnHEaAFFsYyEBjuJ8))|
 |  19:00 |  ~22:00   | Dinner at [Hotel Mårtenson](https://maps.app.goo.gl/RrL9nAof5zfjGngL8) |
 
 ### Tuesday 17th of June 2025
