@@ -11,7 +11,7 @@ permalink: /Full-Programme
 |  08:30 |   09:25   | **Registration & Welcome Fika** |
 |  09:25 |   09:30   | Conference Opening |
 |  09:30 |   10:30   | **Keynote 1 (Kalle Åström)** |
-|  10:30 |   11:00   | _Lightning Talks (6 short papers, 5 minutes each)_ |
+|  10:30 |   11:00   | _Lightning Talks (6 short papers, 5 minutes each)_ Chair: Greg Nalepa |
 | | |   Density-Aware Contrastive Learning for Overlapping Regions by Joakim Månsson & Gustav Sollenius
 | | | [Multivariate Time Series Forecasting for ATM Cash Demand, an Adaptation to Anomalous Events](/assets/papers-2025/paper-19.pdf) by Joel Ekstrand, Tor Mattsson, Zahra Taghiyarrenani, Slawomir Nowaczyk, Jens Lundström & Mikael Lindén
 | | |   Automating workforce scheduling with Large Language Model and Constraints by Lucas Haraldsson & Mouhamed Houssari
@@ -20,12 +20,12 @@ permalink: /Full-Programme
 | | | [Exploring Tabular Data Leakage Under Model Inversion Attacks](/assets/papers-2025/paper-28.pdf) by Jens Lundström, Eric Järpe & Atiye Sadat Hashemi
 |  11:00 |   12:00   | **Poster session** |
 |  12:00 |   13:00   | Lunch |
-|  13:00 |   14:30   | _Session 1 (3 full papers)_ |
+|  13:00 |   14:30   | _Session 1 (3 full papers)_ Chair: Martin Boldt |
 | | | [RetinaGate: A Gated Feature Pyramid Network for Improved Object Detection with SE-based Attention](/assets/papers-2025/paper-01.pdf) by Mahtab Jamali, Paul Davidsson, Reza Khoshkangini, Martin Georg Ljungqvist & Radu-Casian Mihailescu
 | | | [Optimising Pixel-Wise Time-Series Analysis of Vegetation Indices Imagery via Key-Pixel Selection](/assets/papers-2025/paper-04.pdf) by Tibo Bruneel, Welf Löwe, Morgan Ericsson, Diego Perez-Palacin & Jonas Nordqvist
 | | | [Transformers to Predict Embryo Quality Using Images and External Factors](/assets/papers-2025/paper-10.pdf) by Adnane Soulaimani, Carina Schwaiger, Reza Khoshkangini, Magnus Johnsson & Thomas Ebner
 |  14:30 |   15:00   | Fika |
-|  15:00 |   16:00   | _Session 2 (2 full papers)_ |
+|  15:00 |   16:00   | _Session 2 (2 full papers)_ Chair: Paul Davidsson |
 | | | [Different Hallucinations calls for Different Solutions -- A Categorisation of LLM Transcription Mistakes](/assets/papers-2025/paper-05.pdf) by Nemi Pelgrom & Håkan Grahn
 | | | [Recommendation System of Client-Requested Projects in the Swedish Consultancy Market with LLMs](/assets/papers-2025/paper-09.pdf) by Diogo Buarque Franzosi, Kristijan Capovski, Maycel Isaac & Stefan Byttner
 |  16:00 |   16:20   | **SAIS MSc Thesis Award** |
@@ -38,7 +38,7 @@ permalink: /Full-Programme
 
 | 09:00	| 10:00	| **Keynote 2 (Markus Lingman)**
 | 10:00	| 10:30	| Fika
-| 10:30	| 11:00	| _Session 3 (1 full paper)_
+| 10:30	| 11:00	| _Session 3 (1 full paper)_ Chair: Lars Mollberg
 | | | [On the management of definitions in fast-paced research – A systematic collection of Uncertainty definitions in Computer Science](/assets/papers-2025/paper-06.pdf) by Nemi Pelgrom, Mats Walldén & Karl Andersson
 | 11:00	| 11:45	| _Lightning Talks (8 short papers, 5 minutes each)_
 | | | [On the Incongruencies of Visual Explanations and Their Robustness: From Stability to Adversarial Attacks](/assets/papers-2025/paper-24.pdf) by Vincenzo Buono, Peyman Sheikholharam Mashhadi, Mahmoud Rahat, Prayag Tiwari & Stefan Byttner
@@ -50,7 +50,7 @@ permalink: /Full-Programme
 | | |   Self-supervised Pre-training to Enable Agile Task-Learning: A comparison of models in Swedish by Jim Ahlstrand, Martin Boldt & Anton Borg
 | | | [AIM-TRUE: AI-driven automotive service market–towards more resource-efficient and sustainable vehicle maintenance](/assets/papers-2025/paper-29.pdf) by Nuwan Gunasekara, Abdallah Alabdallah, Mohammed Ghaith Altarabichi & Slawomir Nowaczyk
 | 11:45	| 12:45	| Lunch
-| 12:45	| 14:45	| _Session 4 (4 full papers)_
+| 12:45	| 14:45	| _Session 4 (4 full papers)_ Chair: Gideon Mbiydzenyuy
 | | | [Navigating demand forecasting in make-to-order manufacturing: the role of global models and intermittent time-series](/assets/papers-2025/paper-02.pdf) by Jonatan Flyckt & Niklas Lavesson
 | | | [Blimp-based Crime Scene Analysis](/assets/papers-2025/paper-08.pdf) by Martin Cooney & Fernando Alonso-Fernandez
 | | | [Quantifying User Engagement in a Triadic Human-Robot Interaction Setup: Incorporating Gaze, Head Pose, and Affective Cues](/assets/papers-2025/paper-11.pdf) by Bahram Salamat Ravandi, John Currie, Pierre Gander & Robert Lowe
