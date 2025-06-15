@@ -31,8 +31,8 @@ permalink: /Full-Programme
 |  16:00 |   16:20   | **SAIS MSc Thesis Award** |
 |  16:20 |  ~17:20   | **SAIS yearly meeting** |
 |  17:00 |  ~17:30   | Go to city center |
-| ~17:15 |   19:00   | Social activity |
-|  19:00 |  ~22:00   | Dinner |
+| ~17:15 |   19:00   | Social activity (city quest starting at [Halmstads Slott](https://maps.app.goo.gl/BtsvVbVNGYFZX8sG9) or [Stora Torg](https://maps.app.goo.gl/KnHEaAFFsYyEBjuJ8)|
+|  19:00 |  ~22:00   | Dinner at [Hotel Mårtenson](https://maps.app.goo.gl/RrL9nAof5zfjGngL8) |
 
 ### Tuesday 17th of June 2025
 
@@ -40,7 +40,7 @@ permalink: /Full-Programme
 | 10:00	| 10:30	| Fika
 | 10:30	| 11:00	| _Session 3 (1 full paper)_ Chair: Lars Mollberg
 | | | [On the management of definitions in fast-paced research – A systematic collection of Uncertainty definitions in Computer Science](/assets/papers-2025/paper-06.pdf) by Nemi Pelgrom, Mats Walldén & Karl Andersson
-| 11:00	| 11:45	| _Lightning Talks (8 short papers, 5 minutes each)_
+| 11:00	| 11:45	| _Lightning Talks (8 short papers, 5 minutes each)_ Chair: Elin A. Topp
 | | | [On the Incongruencies of Visual Explanations and Their Robustness: From Stability to Adversarial Attacks](/assets/papers-2025/paper-24.pdf) by Vincenzo Buono, Peyman Sheikholharam Mashhadi, Mahmoud Rahat, Prayag Tiwari & Stefan Byttner
 | | |   Fault Prediction with Interval-Censored Event Times Using Autoencoder Reconstruction Errors by Martin Boldt, Shahrooz Abghari, Birger Melkersson, Anton Borg, Amir Yyavariabdi, Christian Nordahl, Roger Ahlin, Håkan Grahn, Erik Svensson
 | | | [Robust People Counting in Public Spaces Using Overhead Cameras: Addressing Challenges of Rapid Movement, Headwear, and Bidirectional Flow](/assets/papers-2025/paper-14.pdf) by Anderson Tavares, Maycel Isaac, Jens Lundström & Stefan Byttner
