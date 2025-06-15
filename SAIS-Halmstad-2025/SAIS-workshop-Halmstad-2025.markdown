@@ -19,13 +19,6 @@ We also invite everyone to [Socially Responsible and Trustworthy AI Day](https:/
 [Swedish AI Society (SAIS)]: https://www.sais.se/blog/
 [Halmstad University]: https://www.hh.se/english.html
 
-## Important Dates {#Important-Dates}
-
-| Workshop Dates        | **2025-06-16 and 2025-06-17** |
-| Early Registration Deadline | 2025-06-01 |
-| Late Registration Deadline | 2025-06-09 |
-| Camera-Ready Submission | 2025-05-31 |
-
 ## Conference Programme {#Conference-Programme}
 
 [Click here for full programme](/Full-Programme).
@@ -64,6 +57,12 @@ The event will take place in Building S, room S1020, see our [Interactive campus
 | 16:15	| 16:45	| Poster Session & Farewell Fika
 | 16:45	| 17:00	| Closing ceremony
 
+## Important Dates {#Important-Dates}
+
+| Workshop Dates        | **2025-06-16 and 2025-06-17** |
+| Early Registration Deadline | 2025-06-01 |
+| Late Registration Deadline | 2025-06-09 |
+| Camera-Ready Submission | 2025-05-31 |
 
 ## Registration {#Registration}
 
