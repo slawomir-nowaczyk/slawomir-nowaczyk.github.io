@@ -31,7 +31,7 @@ We solicit contributions on the role of AI on any aspects of understanding the b
 * Transfer of ECAI rejected papers: July 15, 2025 (ECAI notification deadline is July 10, 2025)
 * Notification of acceptance: July 20, 2025
 * Workshop schedule announced: August 7, 2025
-* Camera-ready deadline: aligned with ECAI 2025
+* Camera-ready deadline: August 1, 2025
 * Workshop date: part of the pre-conference program (October 25-26, 2025)
 
 ## Submission Procedure:
