@@ -33,7 +33,7 @@ Goal of BEHAIV is to bring together researchers working on AI in support of prof
 **SESSION 2 (11:00 - 12:30)**
 
 * Embedding Analogies for Evaluating Emotion in LLM-Generated Utterances.
-*Sadegh Jafari, Els Lefever and Véronique Hoste*
+*SADEGH JAFARI, Els Lefever and Véronique Hoste*
 
 * Comparing visual tools for pairwise comparisons of tabular data.
 *ANNE ROTHER, Matteo Polsinelli, Till Ittermann, Giuseppe Placidi and Myra Spiliopoulou*
