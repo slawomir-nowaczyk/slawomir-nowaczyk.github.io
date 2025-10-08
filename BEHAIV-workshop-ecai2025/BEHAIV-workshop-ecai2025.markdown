@@ -41,11 +41,11 @@ Goal of BEHAIV is to bring together researchers working on AI in support of prof
 * [Smart but Safe: How Industrial AI Challenges Existing Occupational Safety Regulations](/assets/papers-2025/BEHAIV2025_CRV_2.pdf).
 *DAGMAR GESMANN-NUISSL & STEFANIE MEYER*
 
-* PANEL (30 min): AI at the workplace - who takes the lead? featuring Riccardo Guidotti, Antonis Kakas and Jurek Stefanowski; moderated by Myra Spiliopoulou.
+* PANEL (30 min): **AI at the workplace - who takes the lead?** featuring Riccardo Guidotti, Antonis Kakas and Jurek Stefanowski; moderated by Myra Spiliopoulou.
 
 ### How to find BEHAIV?
 
-All workshops are in the "Plesso di Ingegneria" (Engineering Faculty) at following address: Plesso di Ingegneria, Viale Risorgimento 2, 40136 Bologna, Italy
+All workshops are in the "Plesso di Ingegneria" (Engineering Faculty) at following address:<br>Plesso di Ingegneria, Viale Risorgimento 2, 40136 Bologna, Italy
 
 Use the FULL postal address in your favourite map service, because there are more than one locations. If you start from the city centre, you can use this URL
    https://maps.app.goo.gl/NUpNiqj4ExrBiC9y6
