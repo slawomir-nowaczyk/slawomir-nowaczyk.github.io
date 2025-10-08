@@ -48,7 +48,7 @@ Goal of BEHAIV is to bring together researchers working on AI in support of prof
 All workshops are in the "Plesso di Ingegneria" (Engineering Faculty) at following address:<br>Plesso di Ingegneria, Viale Risorgimento 2, 40136 Bologna, Italy
 
 Use the FULL postal address in your favourite map service, because there are more than one locations. If you start from the city centre, you can use this URL
-   https://maps.app.goo.gl/NUpNiqj4ExrBiC9y6
+   (https://maps.app.goo.gl/NUpNiqj4ExrBiC9y6)
 that the Chairs sent to us.
 
 ## Description
