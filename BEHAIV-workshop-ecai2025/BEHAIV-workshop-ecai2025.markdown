@@ -12,7 +12,7 @@ Goal of BEHAIV is to bring together researchers working on AI in support of prof
 
 ## Workshop Programme
 
-*(Please note that assignment of papers to sessions is still tentative)*
+Proceedings for the workshop are now available here: [https://ceur-ws.org/Vol-4073/](https://ceur-ws.org/Vol-4073/)
 
 **SESSION 1 (9:00-10:30)**
 
