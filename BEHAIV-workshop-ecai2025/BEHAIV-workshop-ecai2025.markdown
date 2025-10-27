@@ -14,7 +14,7 @@ Goal of BEHAIV is to bring together researchers working on AI in support of prof
 
 Thank you, everyone, for making the workshop successful. We've been impressed both with the attendance (we apologise as we've run out of sitting places at some point) and with the engagement of the participants. We are already now starting to think about a continuation for the next year, so if you have ideas how to make the event even better, please let us know :)
 
-[Photo from BEHAIV 2025](/assets/photos/BEHAIV-picture-web.jpg "Photo from BEHAIV 2025"){: style="float: center; height: 210px; margin-right: 1em;"}
+![Photo from BEHAIV 2025](/assets/photos/BEHAIV-picture-web.jpg "Photo from BEHAIV 2025"){: style="float: center; height: 210px; margin-right: 1em;"}
 
 ## Workshop Programme
 
