@@ -10,6 +10,12 @@ A substantial amount of research has been devoted to the role of AI in understan
 
 Goal of BEHAIV is to bring together researchers working on AI in support of professionals, to understand their expectations and information demands during decision making, to help them anticipate signals calling their attention, to detect fatigue and disturbances, to promote safety and satisfaction at work. Examples of professionals are: teachers who need to deal with foundational models used by their students, teachers who want to exploit AI in their courses, doctors who interact with models during treatment planning, managers who receive AI-collected pieces of information and need to make reliable decisions on them.
 
+## Thank you
+
+Thank you, everyone, for making the workshop successful. We've been impressed both with the attendance (we apologise as we've run out of sitting places at some point) and with the engagement of the participants. We are already now starting to think about a continuation for the next year, so if you have ideas how to make the event even better, please let us know :)
+
+[Photo from BEHAIV 2025](/assets/photos/BEHAIV-picture-web.jpg "Photo from BEHAIV 2025"){: style="float: center; height: 210px; margin-right: 1em;"}
+
 ## Workshop Programme
 
 Proceedings for the workshop are now available here: [https://ceur-ws.org/Vol-4073/](https://ceur-ws.org/Vol-4073/)
