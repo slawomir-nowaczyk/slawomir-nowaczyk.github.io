@@ -4,6 +4,8 @@ title: "Tutorial and Workshop on Systems Over Models: What Actually Works in Ind
 permalink: /SOMI-2026
 ---
 
+![SOMI-2026](/assets/banners/SOMI-2026.png "SOMI-2026")
+
 The Tutorial and Workshop on Systems Over Models: What Actually Works in Industry (SOMI-2026) at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases [ECML-PKDD 2026](https://ecmlpkdd.org/2026/) on September 7-11 in Naples, Italy.
 
 ## Description
@@ -39,8 +41,28 @@ The goal of the workshop is to foster discussion of the most promising direction
 All accepted papers will be presented as posters and linked to the workshop page. Submitting a paper to the workshop means that if the paper is accepted, at least one author must present it, in person, at the workshop. The best contributions will be allocated a 15-minute presentation slot during the workshop to maximize their visibility and impact.
 
 ## Workshop Organizers:
+ 
+![Zahra Taghiyarrenani](/assets/photos/Nasrin.jpg "Zahra Taghiyarrenani"){: style="float: left; height: 210px; margin-right: 1em;"}
 
 ![Slawomir Nowaczyk](/assets/photos/SN.jpg "Slawomir Nowaczyk"){: style="float: left; height: 210px; margin-right: 1em;"}
+
+![Maciej Misiorny](/assets/photos/Maciej.jpg "Maciej Misiorny"){: style="float: left; height: 210px; margin-right: 1em;"}
+
+![Joao Gama](/assets/photos/Joao.jpg "Joao Gama"){: style="float: left; height: 210px; margin-right: 1em;"}
+
+![Albert Bifet](/assets/photos/Albert.png "Albert Bifet"){: style="float: left; height: 210px; margin-right: 1em;"}
+
+![Martin Atzmüller](/assets/photos/MartinAtzmueller.jpg "Martin Atzmüller"){: style="float: left; height: 210px; margin-right: 1em;"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
