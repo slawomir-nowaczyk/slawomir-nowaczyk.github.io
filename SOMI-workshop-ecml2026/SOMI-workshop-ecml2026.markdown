@@ -89,6 +89,6 @@ TBA
 
 ## Contact
 
-The workshop is part of [KEEPER](https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/technology-area-aware-intelligent-systems/research-projects-within-aware-intelligent-systems/keeper---knowledge-creation-for-efficient-and-predictable-industrial-operations-.html) co-funded by [Knowledge Foundation](https://www.kks.se/en/start-en/) (Knowledge Creation for Efficient and Predictable Industrial Operations) project.
+The workshop is part of [KEEPER](https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/technology-area-aware-intelligent-systems/research-projects-within-aware-intelligent-systems/keeper---knowledge-creation-for-efficient-and-predictable-industrial-operations-.html) project, co-funded by [Knowledge Foundation](https://www.kks.se/en/start-en/) (Knowledge Creation for Efficient and Predictable Industrial Operations).
 
 Email address for contacting workshop chairs: somi-2026-workshop@googlegroups.com
