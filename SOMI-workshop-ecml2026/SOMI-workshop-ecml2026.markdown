@@ -28,9 +28,11 @@ Sahar Asadi, Director of AI Labs at King, Microsoft Gaming
 * Paper submission deadline: 5th of June 2026
 * Notification of acceptance: 29th of June 2026
 * Camera-ready deadline: 10th of July 2026
-* Workshop date: TBD, either 7th or 11th of September 2026
+* Workshop date: Monday, 7th of September 2026
 
 ## Submission Procedure:
+
+[Submit your paper here](https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Track/38/Submission/Create)
 
 The goal of the workshop is to foster discussion of the most promising directions and the most critical challenges in developing reproducible, replicable, and reliable end-to-end ML pipelines. We thus accept the following types of submissions:
 
@@ -89,6 +91,6 @@ TBA
 
 ## Contact
 
-The workshop is part of [KEEPER](https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/technology-area-aware-intelligent-systems/research-projects-within-aware-intelligent-systems/keeper---knowledge-creation-for-efficient-and-predictable-industrial-operations-.html) (Knowledge Creation for Efficient and Predictable Industrial Operations) project, co-funded by [Knowledge Foundation](https://www.kks.se/en/start-en/).
+The workshop is part of [KEEPER](https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/technology-area-aware-intelligent-systems/research-projects-within-aware-intelligent-systems/keeper---knowledge-creation-for-efficient-and-predictable-industrial-operations-.html) (Knowledge Creation for Efficient and Predictable Industrial Operations) and [FeelAI](https://www.vinnova.se/en/p/feelai-federated-predictive-models-on-edge-for-the-logistic-industry/) projects, co-funded by [Knowledge Foundation](https://www.kks.se/en/start-en/) and [Vinnova](https://www.vinnova.se/en/).
 
 Email address for contacting workshop chairs: somi-2026-workshop@googlegroups.com
