@@ -80,7 +80,7 @@ All accepted papers will be presented as posters and linked to the workshop page
 
 * Zahra Taghiyarrenani, CAISR, Halmstad University, Sweden
 * Slawomir Nowaczyk, CAISR, Halmstad University, Sweden
-* Maciej Misiorny, Volvo Group, Sweden
+* Maciej Misiorny, Sigma Technology Insight Solutions, Sweden
 * Joao Gama, University of Porto, Portugal
 * Albert Bifet, Waikato University, New Zealand
 * Martin Atzmüller, Osnabrück University, Germany
